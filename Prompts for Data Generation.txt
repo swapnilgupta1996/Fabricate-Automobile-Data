@@ -20,4 +20,34 @@ Let me generate this data step by step. With 1 month of 3-shift operations acros
 
 The OEE is running a bit lower than targeted (~62% average). Let me verify the overall data and show you a summary:
 
+// The website is https://fabricate.tonic.ai/databases/ai/d565080c-c791-4ac2-b736-393a359ad9ae/tables/cycle_time_observations
+
+Table	Records	Description
+production_lines	4	Body Shop, Paint Shop, Trim & Chassis, Final Assembly
+workstations	49	10-14 stations per line with standard cycle times
+shifts	3	Day, Evening, Night (24-hour operation)
+operators	60	Junior to Lead skill levels
+products	3	Sedan, SUV, Crossover (varying complexity)
+production_runs	264	22 days × 3 shifts × 4 lines
+cycle_time_observations	118,846	Individual unit cycle times (12% sampling)
+downtime_events	1,067	Equipment failures, changeovers, etc.
+quality_defects	2,040	Weld, paint, fit/finish defects
+oee_summary	264	Calculated A × P × Q per shift
+
+
+Key Metrics
+Average OEE: 61.8% (realistic for improvement opportunities)
+Availability: ~74% (Equipment Failure is top loss at 11K minutes)
+Performance: ~87%
+Quality: ~97.5%
+Total Production: ~400 units/shift across the month
+The data includes realistic patterns like:
+
+First-piece cycle times running ~15-30% longer
+Bottleneck stations with higher variability
+Product complexity affecting cycle times (SUV +15%)
+Downtime weighted toward equipment failures and changeovers
+Defect types aligned with production line types (weld defects in Body Shop, paint defects in Paint Shop, etc.)
+
+
 
