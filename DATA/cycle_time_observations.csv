@@ -1,0 +1,1 @@
+id,production_run_id,workstation_id,operator_id,product_id,unit_sequence,cycle_time_seconds,value_added_time_seconds,non_value_added_time_seconds,observation_timestamp,is_first_piece,notes

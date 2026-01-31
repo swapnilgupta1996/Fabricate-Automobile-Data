@@ -1,0 +1,1 @@
+id,production_run_id,workstation_id,product_id,unit_sequence,defect_type,defect_code,defect_description,severity,detected_timestamp,is_reworkable,was_reworked

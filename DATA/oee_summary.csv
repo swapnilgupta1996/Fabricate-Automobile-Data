@@ -1,0 +1,1 @@
+id,production_run_id,planned_production_time_minutes,actual_runtime_minutes,downtime_minutes,ideal_cycle_time_seconds,total_units_produced,good_units,availability_rate,performance_rate,quality_rate,oee_rate,calculated_at

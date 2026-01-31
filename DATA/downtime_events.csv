@@ -1,0 +1,1 @@
+id,production_run_id,workstation_id,downtime_category,downtime_reason,start_timestamp,end_timestamp,duration_minutes,root_cause,corrective_action

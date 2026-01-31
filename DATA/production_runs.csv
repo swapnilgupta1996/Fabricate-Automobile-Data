@@ -1,0 +1,1 @@
+id,production_line_id,shift_id,production_date,planned_units,actual_units_produced,good_units,defective_units,run_status,created_at
