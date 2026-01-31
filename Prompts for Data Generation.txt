@@ -50,7 +50,9 @@ Downtime weighted toward equipment failures and changeovers
 Defect types aligned with production line types (weld defects in Body Shop, paint defects in Paint Shop, etc.)
 
 
-
 https://github.com/swapnilgupta1996/Fabricate-Automobile-Data/blob/main/Images/Screenshot%202026-01-31%20184139.jpg
+
+
+
 
 
