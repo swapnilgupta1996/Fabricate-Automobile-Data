@@ -1,0 +1,1068 @@
+id,production_run_id,workstation_id,downtime_category,downtime_reason,start_timestamp,end_timestamp,duration_minutes,root_cause,corrective_action
+1,1,9,Planned Maintenance,Scheduled PM,2024-01-01 10:30:00,2024-01-01 10:56:45,26.8,Process variation,Operator retrained
+2,1,5,Material,Part shortage,2024-01-01 07:57:00,2024-01-01 08:15:37,18.6,Supplier issue,Settings adjusted
+3,1,4,Planned Maintenance,Calibration,2024-01-01 06:15:00,2024-01-01 07:04:05,49.1,Design flaw,Temporary fix applied
+4,2,3,Planned Maintenance,Lubrication,2024-01-01 20:32:00,2024-01-01 21:22:35,50.6,Process variation,Escalated to engineering
+5,2,4,Equipment Failure,Sensor malfunction,2024-01-01 15:23:00,2024-01-01 15:52:46,29.8,Supplier issue,Operator retrained
+6,2,2,Planned Maintenance,Calibration,2024-01-01 20:19:00,2024-01-01 20:43:51,24.9,Design flaw,Settings adjusted
+7,2,10,Quality Hold,Rework backlog,2024-01-01 18:59:00,2024-01-01 19:04:12,5.2,Supplier issue,Part replaced
+8,2,8,Changeover,Tool change,2024-01-01 14:06:00,2024-01-01 14:50:48,44.8,Operator error,Root cause pending
+9,2,6,Planned Maintenance,Scheduled PM,2024-01-01 20:54:00,2024-01-01 21:33:58,40,Worn component,Temporary fix applied
+10,3,12,Equipment Failure,Hydraulic leak,2024-01-01 22:33:00,2024-01-01 22:47:49,14.8,Supplier issue,Part replaced
+11,3,2,Material,Part shortage,2024-01-01 23:29:00,2024-01-01 23:35:01,6,Unknown,Temporary fix applied
+12,3,3,Operator,Training,2024-01-02 04:50:00,2024-01-02 05:16:08,26.1,Supplier issue,Temporary fix applied
+13,3,8,Equipment Failure,Hydraulic leak,2024-01-02 04:19:00,2024-01-02 04:34:38,15.6,Unknown,Operator retrained
+14,3,7,Planned Maintenance,Calibration,2024-01-01 22:14:00,2024-01-01 23:04:26,50.4,Operator error,Root cause pending
+15,3,10,Quality Hold,Rework backlog,2024-01-01 23:51:00,2024-01-01 23:56:57,6,Operator error,Temporary fix applied
+16,4,13,Operator,Safety incident,2024-01-01 12:52:00,2024-01-01 13:07:03,15.1,Supplier issue,Operator retrained
+17,4,13,Equipment Failure,Pneumatic failure,2024-01-01 09:36:00,2024-01-01 10:30:08,54.1,Design flaw,Settings adjusted
+18,4,14,Quality Hold,Inspection hold,2024-01-01 11:47:00,2024-01-01 11:59:53,12.9,Operator error,Temporary fix applied
+19,4,18,Equipment Failure,PLC fault,2024-01-01 09:17:00,2024-01-01 09:33:31,16.5,Process variation,Root cause pending
+20,4,20,Equipment Failure,Sensor malfunction,2024-01-01 09:07:00,2024-01-01 09:48:38,41.6,Worn component,Root cause pending
+21,4,19,Planned Maintenance,Scheduled PM,2024-01-01 08:14:00,2024-01-01 08:46:23,32.4,Operator error,Settings adjusted
+22,5,22,Changeover,Tool change,2024-01-01 15:38:00,2024-01-01 16:00:54,22.9,Process variation,Escalated to engineering
+23,5,15,Material,Part shortage,2024-01-01 15:49:00,2024-01-01 16:18:05,29.1,Unknown,Temporary fix applied
+24,5,20,Material,Material quality issue,2024-01-01 16:52:00,2024-01-01 17:15:08,23.1,Process variation,Operator retrained
+25,5,16,Changeover,Tool change,2024-01-01 19:01:00,2024-01-01 19:29:18,28.3,Unknown,Part replaced
+26,5,19,Equipment Failure,Pneumatic failure,2024-01-01 15:44:00,2024-01-01 16:18:41,34.7,Operator error,Temporary fix applied
+27,5,19,Equipment Failure,Motor failure,2024-01-01 21:05:00,2024-01-01 22:00:11,55.2,Process variation,Settings adjusted
+28,6,20,Equipment Failure,Robot error,2024-01-02 03:58:00,2024-01-02 04:47:48,49.8,Operator error,Temporary fix applied
+29,6,16,Equipment Failure,PLC fault,2024-01-01 23:23:00,2024-01-01 23:39:18,16.3,Unknown,Operator retrained
+30,6,15,Changeover,Model changeover,2024-01-02 03:41:00,2024-01-02 04:24:05,43.1,Unknown,Part replaced
+31,7,33,Equipment Failure,Pneumatic failure,2024-01-01 11:55:00,2024-01-01 12:42:42,47.7,Worn component,Operator retrained
+32,7,28,Changeover,Fixture swap,2024-01-01 10:57:00,2024-01-01 11:37:55,40.9,Process variation,Part replaced
+33,7,30,Quality Hold,Defect investigation,2024-01-01 09:10:00,2024-01-01 09:19:25,9.4,Unknown,Settings adjusted
+34,7,30,Changeover,Fixture swap,2024-01-01 07:11:00,2024-01-01 07:42:48,31.8,Supplier issue,Temporary fix applied
+35,7,28,Equipment Failure,Hydraulic leak,2024-01-01 08:36:00,2024-01-01 09:07:01,31,Worn component,Temporary fix applied
+36,7,32,Operator,Safety incident,2024-01-01 09:30:00,2024-01-01 09:35:08,5.1,Worn component,Settings adjusted
+37,8,29,Equipment Failure,Robot error,2024-01-01 17:44:00,2024-01-01 17:54:04,10.1,Process variation,Settings adjusted
+38,8,31,Operator,Safety incident,2024-01-01 19:44:00,2024-01-01 20:11:57,28,Process variation,Temporary fix applied
+39,8,29,Changeover,Model changeover,2024-01-01 21:01:00,2024-01-01 21:35:51,34.9,Unknown,Operator retrained
+40,8,25,Equipment Failure,Robot error,2024-01-01 16:12:00,2024-01-01 16:38:40,26.7,Unknown,Root cause pending
+41,9,36,Material,Part shortage,2024-01-02 00:51:00,2024-01-02 01:02:34,11.6,Supplier issue,Settings adjusted
+42,9,35,Equipment Failure,Pneumatic failure,2024-01-02 01:55:00,2024-01-02 02:32:16,37.3,Design flaw,Root cause pending
+43,9,30,Equipment Failure,Robot error,2024-01-02 02:42:00,2024-01-02 03:25:21,43.4,Worn component,Settings adjusted
+44,10,42,Material,Material quality issue,2024-01-01 08:26:00,2024-01-01 08:37:43,11.7,Design flaw,Operator retrained
+45,10,37,Changeover,Fixture swap,2024-01-01 11:13:00,2024-01-01 11:52:51,39.9,Supplier issue,Escalated to engineering
+46,10,49,Operator,Training,2024-01-01 13:02:00,2024-01-01 13:22:42,20.7,Unknown,Escalated to engineering
+47,10,49,Planned Maintenance,Calibration,2024-01-01 07:08:00,2024-01-01 07:54:50,46.8,Process variation,Temporary fix applied
+48,10,47,Changeover,Tool change,2024-01-01 13:26:00,2024-01-01 13:45:01,19,Worn component,Part replaced
+49,11,48,Quality Hold,Defect investigation,2024-01-01 17:20:00,2024-01-01 17:44:07,24.1,Operator error,Settings adjusted
+50,11,38,Material,Material quality issue,2024-01-01 14:05:00,2024-01-01 14:21:38,16.6,Process variation,Escalated to engineering
+51,11,47,Material,Wrong part delivered,2024-01-01 17:55:00,2024-01-01 18:22:58,28,Operator error,Part replaced
+52,11,46,Quality Hold,Defect investigation,2024-01-01 19:09:00,2024-01-01 19:38:18,29.3,Process variation,Temporary fix applied
+53,11,49,Equipment Failure,Motor failure,2024-01-01 15:59:00,2024-01-01 16:45:12,46.2,Design flaw,Root cause pending
+54,11,40,Changeover,Tool change,2024-01-01 20:26:00,2024-01-01 20:58:25,32.4,Design flaw,Temporary fix applied
+55,12,45,Quality Hold,Rework backlog,2024-01-02 00:54:00,2024-01-02 01:12:28,18.5,Supplier issue,Operator retrained
+56,12,48,Equipment Failure,Sensor malfunction,2024-01-02 05:27:00,2024-01-02 06:01:06,34.1,Supplier issue,Settings adjusted
+57,12,45,Equipment Failure,Robot error,2024-01-02 03:42:00,2024-01-02 04:19:11,37.2,Operator error,Settings adjusted
+58,13,9,Equipment Failure,Motor failure,2024-01-02 06:48:00,2024-01-02 07:09:38,21.6,Design flaw,Part replaced
+59,13,3,Changeover,Tool change,2024-01-02 12:27:00,2024-01-02 12:50:49,23.8,Process variation,Temporary fix applied
+60,14,7,Equipment Failure,Hydraulic leak,2024-01-02 14:38:00,2024-01-02 15:04:44,26.7,Worn component,Part replaced
+61,14,7,Material,Part shortage,2024-01-02 18:50:00,2024-01-02 19:17:53,27.9,Process variation,Root cause pending
+62,14,4,Equipment Failure,PLC fault,2024-01-02 19:57:00,2024-01-02 20:36:01,39,Operator error,Operator retrained
+63,14,8,Material,Material quality issue,2024-01-02 16:03:00,2024-01-02 16:14:43,11.7,Design flaw,Temporary fix applied
+64,14,2,Other,Power fluctuation,2024-01-02 18:27:00,2024-01-02 18:33:39,6.7,Process variation,Root cause pending
+65,15,12,Equipment Failure,Hydraulic leak,2024-01-02 22:36:00,2024-01-02 23:33:40,57.7,Operator error,Operator retrained
+66,15,11,Changeover,Tool change,2024-01-02 23:24:00,2024-01-02 23:50:51,26.9,Operator error,Settings adjusted
+67,15,6,Changeover,Fixture swap,2024-01-03 03:16:00,2024-01-03 03:59:09,43.2,Unknown,Escalated to engineering
+68,15,12,Equipment Failure,Sensor malfunction,2024-01-03 02:32:00,2024-01-03 02:47:06,15.1,Design flaw,Part replaced
+69,15,7,Material,Material quality issue,2024-01-02 23:21:00,2024-01-02 23:40:37,19.6,Worn component,Operator retrained
+70,16,15,Quality Hold,Defect investigation,2024-01-02 12:27:00,2024-01-02 12:52:14,25.2,Worn component,Settings adjusted
+71,16,16,Changeover,Fixture swap,2024-01-02 11:20:00,2024-01-02 11:57:11,37.2,Worn component,Operator retrained
+72,17,22,Operator,Operator unavailable,2024-01-02 20:18:00,2024-01-02 20:44:29,26.5,Operator error,Settings adjusted
+73,17,15,Equipment Failure,Hydraulic leak,2024-01-02 17:25:00,2024-01-02 18:18:02,53,Design flaw,Escalated to engineering
+74,18,18,Planned Maintenance,Lubrication,2024-01-02 23:00:00,2024-01-02 23:54:38,54.6,Worn component,Settings adjusted
+75,18,14,Material,Wrong part delivered,2024-01-03 03:27:00,2024-01-03 03:53:52,26.9,Process variation,Operator retrained
+76,18,17,Equipment Failure,Motor failure,2024-01-02 22:03:00,2024-01-02 22:34:09,31.2,Operator error,Temporary fix applied
+77,18,19,Material,Wrong part delivered,2024-01-03 00:46:00,2024-01-03 01:07:54,21.9,Process variation,Settings adjusted
+78,18,13,Changeover,Tool change,2024-01-03 05:08:00,2024-01-03 05:42:50,34.8,Design flaw,Part replaced
+79,19,32,Changeover,Model changeover,2024-01-02 10:56:00,2024-01-02 11:19:02,23,Unknown,Operator retrained
+80,19,33,Changeover,Fixture swap,2024-01-02 09:02:00,2024-01-02 09:19:28,17.5,Design flaw,Escalated to engineering
+81,19,25,Changeover,Model changeover,2024-01-02 10:19:00,2024-01-02 10:38:39,19.7,Supplier issue,Operator retrained
+82,19,23,Operator,Safety incident,2024-01-02 12:28:00,2024-01-02 12:53:32,25.5,Supplier issue,Settings adjusted
+83,19,36,Equipment Failure,PLC fault,2024-01-02 06:55:00,2024-01-02 07:29:45,34.8,Operator error,Operator retrained
+84,20,35,Changeover,Model changeover,2024-01-02 19:04:00,2024-01-02 19:24:54,20.9,Operator error,Settings adjusted
+85,20,29,Material,Part shortage,2024-01-02 19:12:00,2024-01-02 19:23:18,11.3,Process variation,Operator retrained
+86,21,24,Changeover,Fixture swap,2024-01-03 03:59:00,2024-01-03 04:28:42,29.7,Supplier issue,Part replaced
+87,21,25,Changeover,Model changeover,2024-01-03 00:01:00,2024-01-03 00:29:32,28.5,Unknown,Temporary fix applied
+88,22,46,Quality Hold,Inspection hold,2024-01-02 09:57:00,2024-01-02 10:08:06,11.1,Design flaw,Settings adjusted
+89,22,38,Equipment Failure,Robot error,2024-01-02 09:43:00,2024-01-02 10:16:18,33.3,Process variation,Escalated to engineering
+90,22,42,Planned Maintenance,Calibration,2024-01-02 07:41:00,2024-01-02 08:27:55,46.9,Supplier issue,Part replaced
+91,22,39,Operator,Operator unavailable,2024-01-02 11:11:00,2024-01-02 11:37:21,26.4,Design flaw,Temporary fix applied
+92,22,44,Changeover,Fixture swap,2024-01-02 08:29:00,2024-01-02 09:03:10,34.2,Process variation,Escalated to engineering
+93,22,43,Changeover,Model changeover,2024-01-02 13:05:00,2024-01-02 13:20:33,15.6,Worn component,Operator retrained
+94,23,42,Equipment Failure,Hydraulic leak,2024-01-02 14:18:00,2024-01-02 14:51:19,33.3,Worn component,Escalated to engineering
+95,23,39,Equipment Failure,Pneumatic failure,2024-01-02 17:01:00,2024-01-02 17:27:09,26.2,Operator error,Temporary fix applied
+96,24,42,Equipment Failure,PLC fault,2024-01-03 01:03:00,2024-01-03 01:25:53,22.9,Unknown,Root cause pending
+97,24,45,Planned Maintenance,Scheduled PM,2024-01-03 05:08:00,2024-01-03 05:49:37,41.6,Unknown,Part replaced
+98,25,4,Equipment Failure,Robot error,2024-01-03 09:34:00,2024-01-03 10:18:57,45,Design flaw,Escalated to engineering
+99,25,6,Other,Environmental issue,2024-01-03 11:57:00,2024-01-03 12:15:54,18.9,Design flaw,Operator retrained
+100,25,6,Quality Hold,Defect investigation,2024-01-03 08:41:00,2024-01-03 09:07:06,26.1,Process variation,Temporary fix applied
+101,26,10,Other,IT system down,2024-01-03 14:38:00,2024-01-03 15:03:43,25.7,Unknown,Settings adjusted
+102,26,2,Changeover,Tool change,2024-01-03 17:39:00,2024-01-03 18:10:50,31.8,Process variation,Escalated to engineering
+103,26,12,Planned Maintenance,Scheduled PM,2024-01-03 14:39:00,2024-01-03 15:34:16,55.3,Design flaw,Settings adjusted
+104,26,11,Equipment Failure,Sensor malfunction,2024-01-03 14:33:00,2024-01-03 15:07:35,34.6,Process variation,Temporary fix applied
+105,27,1,Other,Environmental issue,2024-01-03 23:17:00,2024-01-03 23:28:46,11.8,Design flaw,Part replaced
+106,27,9,Changeover,Model changeover,2024-01-04 04:38:00,2024-01-04 05:08:57,31,Design flaw,Temporary fix applied
+107,27,12,Changeover,Tool change,2024-01-04 04:09:00,2024-01-04 04:46:33,37.6,Design flaw,Part replaced
+108,28,18,Quality Hold,Rework backlog,2024-01-03 10:22:00,2024-01-03 10:47:17,25.3,Process variation,Operator retrained
+109,28,15,Operator,Safety incident,2024-01-03 10:07:00,2024-01-03 10:12:03,5.1,Operator error,Settings adjusted
+110,28,13,Equipment Failure,Sensor malfunction,2024-01-03 08:58:00,2024-01-03 09:26:41,28.7,Design flaw,Escalated to engineering
+111,28,20,Other,Power fluctuation,2024-01-03 10:47:00,2024-01-03 11:14:08,27.1,Process variation,Escalated to engineering
+112,29,21,Equipment Failure,Pneumatic failure,2024-01-03 14:59:00,2024-01-03 15:14:55,15.9,Design flaw,Operator retrained
+113,29,16,Quality Hold,Inspection hold,2024-01-03 20:52:00,2024-01-03 21:00:22,8.4,Worn component,Temporary fix applied
+114,29,15,Operator,Safety incident,2024-01-03 16:47:00,2024-01-03 16:59:53,12.9,Supplier issue,Root cause pending
+115,29,19,Changeover,Tool change,2024-01-03 14:17:00,2024-01-03 14:54:55,37.9,Worn component,Settings adjusted
+116,29,17,Material,Part shortage,2024-01-03 15:27:00,2024-01-03 15:36:09,9.2,Operator error,Settings adjusted
+117,29,16,Equipment Failure,PLC fault,2024-01-03 18:12:00,2024-01-03 18:44:41,32.7,Worn component,Escalated to engineering
+118,30,16,Planned Maintenance,Lubrication,2024-01-04 04:11:00,2024-01-04 04:36:09,25.2,Operator error,Root cause pending
+119,30,13,Material,Wrong part delivered,2024-01-03 22:56:00,2024-01-03 23:13:04,17.1,Worn component,Escalated to engineering
+120,30,17,Other,IT system down,2024-01-04 02:00:00,2024-01-04 02:28:40,28.7,Worn component,Part replaced
+121,30,14,Material,Material quality issue,2024-01-04 02:39:00,2024-01-04 02:51:47,12.8,Design flaw,Settings adjusted
+122,30,15,Equipment Failure,Robot error,2024-01-03 23:16:00,2024-01-03 23:53:40,37.7,Supplier issue,Operator retrained
+123,30,13,Material,Part shortage,2024-01-03 22:51:00,2024-01-03 23:07:11,16.2,Unknown,Escalated to engineering
+124,31,23,Equipment Failure,Pneumatic failure,2024-01-03 09:23:00,2024-01-03 10:22:23,59.4,Supplier issue,Part replaced
+125,31,34,Equipment Failure,Hydraulic leak,2024-01-03 13:07:00,2024-01-03 13:50:23,43.4,Design flaw,Root cause pending
+126,31,25,Changeover,Tool change,2024-01-03 12:02:00,2024-01-03 12:24:18,22.3,Process variation,Escalated to engineering
+127,31,25,Material,Part shortage,2024-01-03 08:46:00,2024-01-03 09:04:56,18.9,Design flaw,Settings adjusted
+128,31,34,Quality Hold,Defect investigation,2024-01-03 13:01:00,2024-01-03 13:07:10,6.2,Design flaw,Operator retrained
+129,32,27,Equipment Failure,Pneumatic failure,2024-01-03 14:40:00,2024-01-03 15:35:34,55.6,Process variation,Temporary fix applied
+130,32,27,Quality Hold,Rework backlog,2024-01-03 17:11:00,2024-01-03 17:37:28,26.5,Operator error,Part replaced
+131,32,30,Quality Hold,Rework backlog,2024-01-03 19:27:00,2024-01-03 19:52:16,25.3,Unknown,Part replaced
+132,33,26,Quality Hold,Rework backlog,2024-01-04 00:25:00,2024-01-04 00:35:28,10.5,Process variation,Settings adjusted
+133,33,33,Equipment Failure,Motor failure,2024-01-04 01:16:00,2024-01-04 01:39:26,23.4,Design flaw,Part replaced
+134,33,34,Changeover,Tool change,2024-01-03 22:56:00,2024-01-03 23:17:50,21.8,Design flaw,Escalated to engineering
+135,33,36,Material,Material quality issue,2024-01-04 00:00:00,2024-01-04 00:25:35,25.6,Design flaw,Root cause pending
+136,33,28,Material,Wrong part delivered,2024-01-04 00:20:00,2024-01-04 00:34:37,14.6,Worn component,Operator retrained
+137,33,32,Quality Hold,Inspection hold,2024-01-04 04:25:00,2024-01-04 04:36:17,11.3,Unknown,Root cause pending
+138,34,37,Other,IT system down,2024-01-03 07:48:00,2024-01-03 07:54:13,6.2,Unknown,Temporary fix applied
+139,34,38,Other,Environmental issue,2024-01-03 10:00:00,2024-01-03 10:13:26,13.4,Supplier issue,Root cause pending
+140,34,39,Material,Part shortage,2024-01-03 11:12:00,2024-01-03 11:29:33,17.6,Worn component,Root cause pending
+141,34,47,Equipment Failure,Robot error,2024-01-03 11:11:00,2024-01-03 11:59:46,48.8,Supplier issue,Temporary fix applied
+142,34,42,Equipment Failure,Pneumatic failure,2024-01-03 08:01:00,2024-01-03 08:38:30,37.5,Process variation,Temporary fix applied
+143,35,39,Operator,Safety incident,2024-01-03 20:45:00,2024-01-03 20:54:14,9.2,Supplier issue,Operator retrained
+144,35,45,Equipment Failure,Robot error,2024-01-03 20:28:00,2024-01-03 21:19:30,51.5,Operator error,Root cause pending
+145,35,38,Equipment Failure,Pneumatic failure,2024-01-03 15:03:00,2024-01-03 15:20:51,17.9,Worn component,Operator retrained
+146,35,44,Changeover,Fixture swap,2024-01-03 18:47:00,2024-01-03 19:28:33,41.6,Process variation,Escalated to engineering
+147,36,37,Equipment Failure,Hydraulic leak,2024-01-04 01:16:00,2024-01-04 02:15:43,59.7,Supplier issue,Settings adjusted
+148,36,42,Planned Maintenance,Scheduled PM,2024-01-03 23:29:00,2024-01-04 00:21:02,52,Design flaw,Temporary fix applied
+149,36,40,Material,Material quality issue,2024-01-04 00:17:00,2024-01-04 00:37:44,20.7,Supplier issue,Operator retrained
+150,36,44,Material,Part shortage,2024-01-04 01:09:00,2024-01-04 01:19:04,10.1,Supplier issue,Escalated to engineering
+151,37,3,Equipment Failure,Hydraulic leak,2024-01-04 09:54:00,2024-01-04 10:08:18,14.3,Process variation,Temporary fix applied
+152,37,6,Equipment Failure,Pneumatic failure,2024-01-04 12:57:00,2024-01-04 13:26:11,29.2,Design flaw,Root cause pending
+153,37,1,Changeover,Fixture swap,2024-01-04 06:49:00,2024-01-04 07:31:52,42.9,Worn component,Operator retrained
+154,38,6,Changeover,Fixture swap,2024-01-04 17:44:00,2024-01-04 18:08:17,24.3,Operator error,Settings adjusted
+155,38,8,Equipment Failure,Sensor malfunction,2024-01-04 15:02:00,2024-01-04 15:37:11,35.2,Operator error,Escalated to engineering
+156,38,12,Equipment Failure,Motor failure,2024-01-04 19:40:00,2024-01-04 20:21:13,41.2,Process variation,Escalated to engineering
+157,39,6,Other,Environmental issue,2024-01-05 02:14:00,2024-01-05 02:29:01,15,Operator error,Root cause pending
+158,39,10,Operator,Training,2024-01-05 00:49:00,2024-01-05 01:13:14,24.2,Operator error,Root cause pending
+159,39,7,Changeover,Model changeover,2024-01-05 00:15:00,2024-01-05 00:31:00,16,Operator error,Part replaced
+160,40,16,Quality Hold,Inspection hold,2024-01-04 10:08:00,2024-01-04 10:15:29,7.5,Unknown,Escalated to engineering
+161,40,17,Equipment Failure,Motor failure,2024-01-04 10:41:00,2024-01-04 11:34:49,53.8,Worn component,Escalated to engineering
+162,40,16,Equipment Failure,Motor failure,2024-01-04 12:47:00,2024-01-04 13:17:43,30.7,Supplier issue,Temporary fix applied
+163,40,13,Operator,Safety incident,2024-01-04 11:49:00,2024-01-04 12:01:53,12.9,Operator error,Temporary fix applied
+164,40,15,Operator,Safety incident,2024-01-04 06:01:00,2024-01-04 06:06:15,5.3,Process variation,Part replaced
+165,40,14,Planned Maintenance,Lubrication,2024-01-04 10:34:00,2024-01-04 10:57:49,23.8,Worn component,Root cause pending
+166,41,13,Equipment Failure,PLC fault,2024-01-04 15:42:00,2024-01-04 15:56:42,14.7,Design flaw,Escalated to engineering
+167,41,21,Operator,Operator unavailable,2024-01-04 17:00:00,2024-01-04 17:05:06,5.1,Design flaw,Settings adjusted
+168,41,15,Equipment Failure,Motor failure,2024-01-04 16:14:00,2024-01-04 16:36:57,23,Operator error,Part replaced
+169,42,13,Other,Environmental issue,2024-01-05 03:18:00,2024-01-05 03:38:04,20.1,Design flaw,Root cause pending
+170,42,15,Material,Wrong part delivered,2024-01-05 03:27:00,2024-01-05 03:54:05,27.1,Process variation,Escalated to engineering
+171,42,19,Other,Power fluctuation,2024-01-05 05:20:00,2024-01-05 05:39:30,19.5,Process variation,Part replaced
+172,42,22,Quality Hold,Inspection hold,2024-01-05 01:35:00,2024-01-05 01:51:26,16.4,Operator error,Root cause pending
+173,43,23,Quality Hold,Defect investigation,2024-01-04 12:48:00,2024-01-04 13:08:27,20.5,Unknown,Escalated to engineering
+174,43,26,Equipment Failure,Pneumatic failure,2024-01-04 06:21:00,2024-01-04 07:06:12,45.2,Design flaw,Escalated to engineering
+175,43,32,Equipment Failure,Sensor malfunction,2024-01-04 07:26:00,2024-01-04 08:00:04,34.1,Supplier issue,Temporary fix applied
+176,43,31,Changeover,Fixture swap,2024-01-04 10:05:00,2024-01-04 10:28:33,23.6,Unknown,Operator retrained
+177,44,34,Planned Maintenance,Lubrication,2024-01-04 17:51:00,2024-01-04 18:45:53,54.9,Worn component,Temporary fix applied
+178,44,32,Planned Maintenance,Calibration,2024-01-04 15:34:00,2024-01-04 16:12:49,38.8,Unknown,Operator retrained
+179,44,32,Quality Hold,Rework backlog,2024-01-04 18:40:00,2024-01-04 19:00:15,20.3,Design flaw,Escalated to engineering
+180,44,24,Material,Wrong part delivered,2024-01-04 19:01:00,2024-01-04 19:08:14,7.2,Design flaw,Root cause pending
+181,44,27,Equipment Failure,Motor failure,2024-01-04 15:01:00,2024-01-04 15:23:21,22.4,Design flaw,Settings adjusted
+182,44,35,Material,Wrong part delivered,2024-01-04 15:03:00,2024-01-04 15:18:22,15.4,Unknown,Operator retrained
+183,45,25,Equipment Failure,Motor failure,2024-01-05 04:19:00,2024-01-05 05:18:28,59.5,Operator error,Escalated to engineering
+184,45,31,Equipment Failure,PLC fault,2024-01-05 05:07:00,2024-01-05 05:30:59,24,Unknown,Temporary fix applied
+185,46,41,Planned Maintenance,Calibration,2024-01-04 07:04:00,2024-01-04 07:33:01,29,Worn component,Root cause pending
+186,46,40,Equipment Failure,Hydraulic leak,2024-01-04 07:03:00,2024-01-04 07:58:20,55.3,Worn component,Operator retrained
+187,47,44,Planned Maintenance,Lubrication,2024-01-04 16:57:00,2024-01-04 17:48:50,51.8,Operator error,Escalated to engineering
+188,47,48,Operator,Operator unavailable,2024-01-04 18:42:00,2024-01-04 18:49:05,7.1,Operator error,Root cause pending
+189,48,37,Material,Material quality issue,2024-01-05 01:05:00,2024-01-05 01:31:36,26.6,Operator error,Part replaced
+190,48,39,Equipment Failure,Pneumatic failure,2024-01-05 05:00:00,2024-01-05 05:36:38,36.6,Operator error,Temporary fix applied
+191,48,47,Changeover,Fixture swap,2024-01-05 03:37:00,2024-01-05 04:02:37,25.6,Worn component,Temporary fix applied
+192,48,48,Quality Hold,Rework backlog,2024-01-04 22:19:00,2024-01-04 22:45:10,26.2,Unknown,Temporary fix applied
+193,48,47,Equipment Failure,PLC fault,2024-01-05 02:12:00,2024-01-05 02:32:01,20,Operator error,Escalated to engineering
+194,48,44,Equipment Failure,Sensor malfunction,2024-01-05 03:45:00,2024-01-05 04:08:06,23.1,Worn component,Temporary fix applied
+195,49,1,Equipment Failure,PLC fault,2024-01-05 06:06:00,2024-01-05 06:43:23,37.4,Process variation,Escalated to engineering
+196,49,3,Quality Hold,Inspection hold,2024-01-05 08:40:00,2024-01-05 08:57:28,17.5,Operator error,Temporary fix applied
+197,49,10,Operator,Training,2024-01-05 07:13:00,2024-01-05 07:19:40,6.7,Worn component,Temporary fix applied
+198,49,5,Equipment Failure,Hydraulic leak,2024-01-05 13:17:00,2024-01-05 14:00:18,43.3,Process variation,Escalated to engineering
+199,49,12,Equipment Failure,PLC fault,2024-01-05 08:49:00,2024-01-05 09:31:49,42.8,Worn component,Root cause pending
+200,49,1,Quality Hold,Inspection hold,2024-01-05 08:44:00,2024-01-05 09:05:09,21.2,Process variation,Temporary fix applied
+201,50,9,Equipment Failure,PLC fault,2024-01-05 17:02:00,2024-01-05 17:12:23,10.4,Design flaw,Settings adjusted
+202,50,10,Material,Material quality issue,2024-01-05 16:36:00,2024-01-05 16:46:32,10.5,Design flaw,Root cause pending
+203,50,4,Operator,Training,2024-01-05 20:03:00,2024-01-05 20:25:41,22.7,Process variation,Operator retrained
+204,50,11,Material,Material quality issue,2024-01-05 18:47:00,2024-01-05 19:16:01,29,Unknown,Temporary fix applied
+205,51,1,Equipment Failure,Hydraulic leak,2024-01-06 02:31:00,2024-01-06 03:00:12,29.2,Worn component,Settings adjusted
+206,51,12,Operator,Training,2024-01-06 01:14:00,2024-01-06 01:35:11,21.2,Process variation,Part replaced
+207,51,2,Quality Hold,Inspection hold,2024-01-06 02:55:00,2024-01-06 03:18:01,23,Process variation,Escalated to engineering
+208,52,20,Material,Material quality issue,2024-01-05 10:45:00,2024-01-05 10:53:01,8,Unknown,Part replaced
+209,52,22,Planned Maintenance,Scheduled PM,2024-01-05 13:14:00,2024-01-05 13:46:59,33,Process variation,Root cause pending
+210,52,13,Quality Hold,Rework backlog,2024-01-05 07:49:00,2024-01-05 08:10:33,21.6,Worn component,Escalated to engineering
+211,52,14,Equipment Failure,PLC fault,2024-01-05 08:33:00,2024-01-05 08:47:44,14.7,Unknown,Part replaced
+212,52,14,Changeover,Tool change,2024-01-05 11:42:00,2024-01-05 12:24:26,42.4,Supplier issue,Settings adjusted
+213,52,22,Material,Material quality issue,2024-01-05 08:28:00,2024-01-05 08:52:14,24.2,Unknown,Escalated to engineering
+214,53,22,Quality Hold,Rework backlog,2024-01-05 14:18:00,2024-01-05 14:42:03,24.1,Design flaw,Settings adjusted
+215,53,13,Material,Wrong part delivered,2024-01-05 21:02:00,2024-01-05 21:22:50,20.8,Supplier issue,Root cause pending
+216,54,18,Material,Part shortage,2024-01-05 23:02:00,2024-01-05 23:12:06,10.1,Worn component,Root cause pending
+217,54,21,Changeover,Tool change,2024-01-06 00:15:00,2024-01-06 00:35:45,20.8,Design flaw,Part replaced
+218,54,20,Planned Maintenance,Lubrication,2024-01-06 00:07:00,2024-01-06 01:01:27,54.5,Supplier issue,Operator retrained
+219,54,17,Equipment Failure,Sensor malfunction,2024-01-06 05:19:00,2024-01-06 05:45:42,26.7,Design flaw,Operator retrained
+220,55,33,Planned Maintenance,Calibration,2024-01-05 06:15:00,2024-01-05 06:58:10,43.2,Operator error,Settings adjusted
+221,55,29,Planned Maintenance,Lubrication,2024-01-05 11:06:00,2024-01-05 11:52:04,46.1,Process variation,Settings adjusted
+222,55,26,Planned Maintenance,Calibration,2024-01-05 07:18:00,2024-01-05 08:15:23,57.4,Process variation,Part replaced
+223,56,36,Equipment Failure,Pneumatic failure,2024-01-05 16:10:00,2024-01-05 16:49:20,39.3,Worn component,Escalated to engineering
+224,56,24,Other,IT system down,2024-01-05 14:40:00,2024-01-05 15:04:33,24.6,Process variation,Part replaced
+225,56,29,Planned Maintenance,Scheduled PM,2024-01-05 16:27:00,2024-01-05 16:59:40,32.7,Process variation,Escalated to engineering
+226,57,29,Material,Part shortage,2024-01-06 03:49:00,2024-01-06 03:54:34,5.6,Design flaw,Settings adjusted
+227,57,30,Changeover,Fixture swap,2024-01-05 22:30:00,2024-01-05 22:56:01,26,Worn component,Root cause pending
+228,57,28,Changeover,Tool change,2024-01-06 00:40:00,2024-01-06 01:24:18,44.3,Unknown,Root cause pending
+229,58,43,Changeover,Model changeover,2024-01-05 06:40:00,2024-01-05 07:07:01,27,Worn component,Part replaced
+230,58,49,Operator,Operator unavailable,2024-01-05 06:38:00,2024-01-05 07:00:34,22.6,Supplier issue,Escalated to engineering
+231,58,41,Planned Maintenance,Calibration,2024-01-05 06:06:00,2024-01-05 06:48:15,42.3,Supplier issue,Part replaced
+232,58,44,Equipment Failure,Sensor malfunction,2024-01-05 12:41:00,2024-01-05 13:07:11,26.2,Process variation,Settings adjusted
+233,59,47,Equipment Failure,Motor failure,2024-01-05 16:42:00,2024-01-05 16:55:17,13.3,Worn component,Escalated to engineering
+234,59,38,Planned Maintenance,Scheduled PM,2024-01-05 21:06:00,2024-01-05 21:26:54,20.9,Unknown,Temporary fix applied
+235,59,37,Changeover,Fixture swap,2024-01-05 14:25:00,2024-01-05 14:49:43,24.7,Operator error,Operator retrained
+236,60,39,Quality Hold,Inspection hold,2024-01-06 03:34:00,2024-01-06 03:52:11,18.2,Operator error,Temporary fix applied
+237,60,37,Equipment Failure,Pneumatic failure,2024-01-06 03:04:00,2024-01-06 03:15:00,11,Operator error,Part replaced
+238,60,47,Operator,Safety incident,2024-01-06 01:11:00,2024-01-06 01:34:11,23.2,Unknown,Root cause pending
+239,60,38,Changeover,Tool change,2024-01-05 22:26:00,2024-01-05 22:51:24,25.4,Design flaw,Root cause pending
+240,60,44,Other,IT system down,2024-01-06 00:24:00,2024-01-06 00:49:04,25.1,Process variation,Part replaced
+241,61,8,Operator,Training,2024-01-08 11:23:00,2024-01-08 11:46:53,23.9,Unknown,Root cause pending
+242,61,4,Material,Part shortage,2024-01-08 09:46:00,2024-01-08 09:56:46,10.8,Design flaw,Escalated to engineering
+243,61,3,Other,Environmental issue,2024-01-08 10:18:00,2024-01-08 10:32:58,15,Worn component,Operator retrained
+244,62,1,Equipment Failure,Motor failure,2024-01-08 18:23:00,2024-01-08 19:20:57,58,Design flaw,Settings adjusted
+245,62,1,Quality Hold,Defect investigation,2024-01-08 15:48:00,2024-01-08 16:05:50,17.8,Process variation,Root cause pending
+246,62,7,Changeover,Model changeover,2024-01-08 15:43:00,2024-01-08 16:08:27,25.5,Design flaw,Temporary fix applied
+247,62,2,Quality Hold,Inspection hold,2024-01-08 19:10:00,2024-01-08 19:28:01,18,Process variation,Part replaced
+248,62,3,Material,Material quality issue,2024-01-08 20:07:00,2024-01-08 20:21:19,14.3,Supplier issue,Settings adjusted
+249,62,1,Changeover,Tool change,2024-01-08 19:32:00,2024-01-08 19:58:43,26.7,Process variation,Escalated to engineering
+250,63,9,Changeover,Tool change,2024-01-08 22:23:00,2024-01-08 23:03:04,40.1,Process variation,Temporary fix applied
+251,63,2,Other,Environmental issue,2024-01-09 04:42:00,2024-01-09 04:54:59,13,Worn component,Part replaced
+252,64,17,Changeover,Tool change,2024-01-08 08:02:00,2024-01-08 08:21:18,19.3,Supplier issue,Operator retrained
+253,64,19,Other,Environmental issue,2024-01-08 06:11:00,2024-01-08 06:25:44,14.7,Unknown,Part replaced
+254,64,18,Material,Part shortage,2024-01-08 12:00:00,2024-01-08 12:17:26,17.4,Supplier issue,Part replaced
+255,64,21,Quality Hold,Rework backlog,2024-01-08 12:53:00,2024-01-08 13:11:35,18.6,Design flaw,Operator retrained
+256,64,13,Quality Hold,Inspection hold,2024-01-08 13:25:00,2024-01-08 13:47:04,22.1,Worn component,Root cause pending
+257,65,13,Changeover,Tool change,2024-01-08 16:37:00,2024-01-08 16:54:54,17.9,Supplier issue,Root cause pending
+258,65,20,Equipment Failure,Hydraulic leak,2024-01-08 14:26:00,2024-01-08 14:53:11,27.2,Worn component,Escalated to engineering
+259,65,15,Changeover,Fixture swap,2024-01-08 17:51:00,2024-01-08 18:26:14,35.2,Process variation,Escalated to engineering
+260,66,14,Quality Hold,Defect investigation,2024-01-09 01:53:00,2024-01-09 02:06:08,13.1,Worn component,Settings adjusted
+261,66,19,Planned Maintenance,Calibration,2024-01-09 02:56:00,2024-01-09 03:17:12,21.2,Design flaw,Root cause pending
+262,66,14,Other,Power fluctuation,2024-01-08 23:23:00,2024-01-08 23:32:24,9.4,Operator error,Operator retrained
+263,66,15,Changeover,Model changeover,2024-01-09 00:11:00,2024-01-09 00:28:11,17.2,Supplier issue,Root cause pending
+264,67,31,Changeover,Fixture swap,2024-01-08 07:29:00,2024-01-08 07:52:55,23.9,Supplier issue,Temporary fix applied
+265,67,24,Changeover,Fixture swap,2024-01-08 10:29:00,2024-01-08 11:10:35,41.6,Design flaw,Root cause pending
+266,67,34,Equipment Failure,Robot error,2024-01-08 07:54:00,2024-01-08 08:47:02,53,Design flaw,Part replaced
+267,67,34,Changeover,Tool change,2024-01-08 06:21:00,2024-01-08 06:59:18,38.3,Unknown,Operator retrained
+268,68,24,Quality Hold,Defect investigation,2024-01-08 20:12:00,2024-01-08 20:27:08,15.1,Supplier issue,Temporary fix applied
+269,68,28,Changeover,Model changeover,2024-01-08 15:32:00,2024-01-08 16:15:24,43.4,Operator error,Part replaced
+270,68,24,Operator,Safety incident,2024-01-08 19:36:00,2024-01-08 19:52:24,16.4,Design flaw,Root cause pending
+271,68,25,Material,Material quality issue,2024-01-08 19:51:00,2024-01-08 20:19:44,28.7,Operator error,Part replaced
+272,68,24,Planned Maintenance,Calibration,2024-01-08 18:09:00,2024-01-08 18:45:21,36.4,Worn component,Temporary fix applied
+273,69,24,Equipment Failure,PLC fault,2024-01-09 03:32:00,2024-01-09 04:14:42,42.7,Worn component,Temporary fix applied
+274,69,28,Operator,Operator unavailable,2024-01-08 23:58:00,2024-01-09 00:09:01,11,Design flaw,Escalated to engineering
+275,69,32,Other,IT system down,2024-01-08 23:15:00,2024-01-08 23:27:09,12.2,Process variation,Temporary fix applied
+276,69,27,Equipment Failure,Motor failure,2024-01-08 23:17:00,2024-01-08 23:52:51,35.9,Design flaw,Settings adjusted
+277,70,41,Planned Maintenance,Scheduled PM,2024-01-08 12:48:00,2024-01-08 13:44:22,56.4,Unknown,Escalated to engineering
+278,70,49,Equipment Failure,Pneumatic failure,2024-01-08 06:08:00,2024-01-08 06:42:30,34.5,Process variation,Operator retrained
+279,70,40,Equipment Failure,Robot error,2024-01-08 12:37:00,2024-01-08 13:32:59,56,Supplier issue,Part replaced
+280,70,37,Equipment Failure,PLC fault,2024-01-08 12:44:00,2024-01-08 13:11:40,27.7,Unknown,Root cause pending
+281,71,38,Quality Hold,Rework backlog,2024-01-08 15:50:00,2024-01-08 16:07:16,17.3,Supplier issue,Root cause pending
+282,71,47,Equipment Failure,Sensor malfunction,2024-01-08 20:06:00,2024-01-08 20:42:00,36,Design flaw,Root cause pending
+283,71,48,Operator,Safety incident,2024-01-08 16:34:00,2024-01-08 16:56:50,22.8,Design flaw,Escalated to engineering
+284,71,40,Quality Hold,Rework backlog,2024-01-08 15:07:00,2024-01-08 15:34:00,27,Unknown,Part replaced
+285,72,49,Changeover,Model changeover,2024-01-09 05:27:00,2024-01-09 06:07:18,40.3,Worn component,Escalated to engineering
+286,72,48,Equipment Failure,Robot error,2024-01-09 03:16:00,2024-01-09 03:49:52,33.9,Operator error,Part replaced
+287,72,46,Operator,Training,2024-01-09 00:35:00,2024-01-09 00:49:14,14.2,Worn component,Operator retrained
+288,72,47,Changeover,Model changeover,2024-01-08 23:31:00,2024-01-09 00:06:26,35.4,Process variation,Temporary fix applied
+289,72,42,Changeover,Model changeover,2024-01-09 01:13:00,2024-01-09 01:45:14,32.2,Worn component,Settings adjusted
+290,73,2,Quality Hold,Defect investigation,2024-01-09 10:41:00,2024-01-09 11:08:01,27,Unknown,Root cause pending
+291,73,1,Changeover,Tool change,2024-01-09 12:20:00,2024-01-09 12:53:32,33.5,Design flaw,Settings adjusted
+292,73,5,Changeover,Tool change,2024-01-09 06:56:00,2024-01-09 07:37:25,41.4,Unknown,Part replaced
+293,73,7,Changeover,Tool change,2024-01-09 12:15:00,2024-01-09 12:45:33,30.6,Operator error,Root cause pending
+294,73,3,Equipment Failure,Pneumatic failure,2024-01-09 10:48:00,2024-01-09 11:37:18,49.3,Design flaw,Escalated to engineering
+295,73,10,Other,Power fluctuation,2024-01-09 06:44:00,2024-01-09 06:49:12,5.2,Worn component,Part replaced
+296,74,4,Planned Maintenance,Scheduled PM,2024-01-09 15:50:00,2024-01-09 16:23:05,33.1,Design flaw,Escalated to engineering
+297,74,2,Changeover,Tool change,2024-01-09 17:54:00,2024-01-09 18:12:40,18.7,Unknown,Temporary fix applied
+298,75,5,Planned Maintenance,Lubrication,2024-01-10 01:19:00,2024-01-10 02:14:07,55.1,Operator error,Temporary fix applied
+299,75,2,Changeover,Tool change,2024-01-10 01:41:00,2024-01-10 02:05:18,24.3,Worn component,Operator retrained
+300,75,4,Material,Material quality issue,2024-01-10 02:31:00,2024-01-10 02:40:30,9.5,Worn component,Settings adjusted
+301,75,8,Material,Part shortage,2024-01-10 01:35:00,2024-01-10 01:57:10,22.2,Design flaw,Operator retrained
+302,75,7,Equipment Failure,PLC fault,2024-01-10 01:47:00,2024-01-10 02:01:53,14.9,Worn component,Root cause pending
+303,76,13,Quality Hold,Rework backlog,2024-01-09 08:47:00,2024-01-09 09:02:09,15.2,Design flaw,Part replaced
+304,76,17,Operator,Training,2024-01-09 11:06:00,2024-01-09 11:33:15,27.3,Supplier issue,Root cause pending
+305,76,16,Changeover,Fixture swap,2024-01-09 13:19:00,2024-01-09 13:56:00,37,Operator error,Part replaced
+306,77,16,Quality Hold,Inspection hold,2024-01-09 18:41:00,2024-01-09 18:50:17,9.3,Unknown,Part replaced
+307,77,21,Operator,Safety incident,2024-01-09 15:49:00,2024-01-09 16:16:23,27.4,Design flaw,Part replaced
+308,77,19,Material,Part shortage,2024-01-09 20:35:00,2024-01-09 20:45:17,10.3,Process variation,Part replaced
+309,77,20,Planned Maintenance,Lubrication,2024-01-09 21:27:00,2024-01-09 21:55:08,28.1,Process variation,Operator retrained
+310,78,15,Changeover,Tool change,2024-01-10 03:48:00,2024-01-10 04:05:04,17.1,Worn component,Operator retrained
+311,78,20,Changeover,Model changeover,2024-01-09 23:30:00,2024-01-09 23:54:31,24.5,Process variation,Part replaced
+312,78,18,Equipment Failure,PLC fault,2024-01-09 23:02:00,2024-01-09 23:28:44,26.7,Supplier issue,Part replaced
+313,78,22,Material,Part shortage,2024-01-10 04:56:00,2024-01-10 05:23:44,27.7,Supplier issue,Settings adjusted
+314,78,21,Operator,Safety incident,2024-01-10 00:01:00,2024-01-10 00:09:34,8.6,Process variation,Settings adjusted
+315,79,33,Planned Maintenance,Calibration,2024-01-09 12:28:00,2024-01-09 13:18:50,50.8,Operator error,Part replaced
+316,79,33,Equipment Failure,Motor failure,2024-01-09 11:51:00,2024-01-09 12:08:05,17.1,Operator error,Operator retrained
+317,79,36,Equipment Failure,Pneumatic failure,2024-01-09 09:05:00,2024-01-09 09:20:42,15.7,Worn component,Root cause pending
+318,80,26,Material,Part shortage,2024-01-09 20:27:00,2024-01-09 20:38:18,11.3,Supplier issue,Temporary fix applied
+319,80,24,Operator,Safety incident,2024-01-09 16:51:00,2024-01-09 17:08:58,18,Unknown,Part replaced
+320,80,31,Material,Wrong part delivered,2024-01-09 21:01:00,2024-01-09 21:06:28,5.5,Process variation,Operator retrained
+321,80,32,Material,Material quality issue,2024-01-09 19:14:00,2024-01-09 19:26:43,12.7,Supplier issue,Part replaced
+322,80,30,Operator,Safety incident,2024-01-09 14:29:00,2024-01-09 14:40:18,11.3,Worn component,Root cause pending
+323,81,27,Equipment Failure,Hydraulic leak,2024-01-10 00:43:00,2024-01-10 01:08:42,25.7,Unknown,Part replaced
+324,81,30,Equipment Failure,Motor failure,2024-01-10 01:57:00,2024-01-10 02:16:26,19.4,Supplier issue,Operator retrained
+325,81,30,Material,Wrong part delivered,2024-01-10 05:28:00,2024-01-10 05:40:20,12.3,Operator error,Root cause pending
+326,81,26,Equipment Failure,PLC fault,2024-01-10 03:22:00,2024-01-10 03:34:45,12.8,Unknown,Settings adjusted
+327,82,40,Quality Hold,Rework backlog,2024-01-09 11:54:00,2024-01-09 12:03:28,9.5,Operator error,Part replaced
+328,82,37,Equipment Failure,Pneumatic failure,2024-01-09 11:34:00,2024-01-09 12:23:44,49.7,Supplier issue,Part replaced
+329,82,45,Equipment Failure,Motor failure,2024-01-09 12:31:00,2024-01-09 13:18:57,48,Unknown,Root cause pending
+330,82,49,Equipment Failure,PLC fault,2024-01-09 06:34:00,2024-01-09 07:09:08,35.1,Worn component,Temporary fix applied
+331,83,49,Equipment Failure,Robot error,2024-01-09 14:53:00,2024-01-09 15:24:47,31.8,Operator error,Operator retrained
+332,83,38,Other,Environmental issue,2024-01-09 20:50:00,2024-01-09 21:08:06,18.1,Process variation,Part replaced
+333,83,44,Equipment Failure,Hydraulic leak,2024-01-09 14:07:00,2024-01-09 14:47:57,41,Design flaw,Operator retrained
+334,83,42,Operator,Safety incident,2024-01-09 16:55:00,2024-01-09 17:03:31,8.5,Unknown,Root cause pending
+335,83,49,Material,Part shortage,2024-01-09 21:29:00,2024-01-09 21:57:14,28.2,Unknown,Root cause pending
+336,84,38,Planned Maintenance,Lubrication,2024-01-10 04:52:00,2024-01-10 05:34:53,42.9,Process variation,Escalated to engineering
+337,84,37,Quality Hold,Inspection hold,2024-01-10 05:08:00,2024-01-10 05:22:08,14.1,Operator error,Settings adjusted
+338,84,42,Planned Maintenance,Scheduled PM,2024-01-09 23:26:00,2024-01-10 00:12:30,46.5,Process variation,Escalated to engineering
+339,84,41,Quality Hold,Inspection hold,2024-01-10 00:44:00,2024-01-10 01:08:39,24.7,Process variation,Escalated to engineering
+340,85,7,Equipment Failure,Motor failure,2024-01-10 12:34:00,2024-01-10 13:13:40,39.7,Operator error,Escalated to engineering
+341,85,4,Changeover,Fixture swap,2024-01-10 06:28:00,2024-01-10 06:57:40,29.7,Worn component,Part replaced
+342,85,11,Changeover,Model changeover,2024-01-10 07:22:00,2024-01-10 07:38:43,16.7,Process variation,Temporary fix applied
+343,85,6,Planned Maintenance,Lubrication,2024-01-10 10:18:00,2024-01-10 10:54:22,36.4,Operator error,Temporary fix applied
+344,85,11,Material,Part shortage,2024-01-10 07:04:00,2024-01-10 07:32:14,28.2,Supplier issue,Settings adjusted
+345,85,10,Material,Material quality issue,2024-01-10 08:14:00,2024-01-10 08:24:57,11,Design flaw,Escalated to engineering
+346,86,9,Planned Maintenance,Lubrication,2024-01-10 19:31:00,2024-01-10 20:05:04,34.1,Design flaw,Temporary fix applied
+347,86,10,Equipment Failure,Motor failure,2024-01-10 21:06:00,2024-01-10 21:52:10,46.2,Design flaw,Root cause pending
+348,86,4,Material,Part shortage,2024-01-10 19:07:00,2024-01-10 19:21:37,14.6,Unknown,Operator retrained
+349,86,12,Equipment Failure,PLC fault,2024-01-10 18:47:00,2024-01-10 19:13:15,26.3,Design flaw,Settings adjusted
+350,86,12,Material,Wrong part delivered,2024-01-10 14:20:00,2024-01-10 14:45:07,25.1,Supplier issue,Part replaced
+351,87,9,Quality Hold,Inspection hold,2024-01-10 22:26:00,2024-01-10 22:54:10,28.2,Unknown,Temporary fix applied
+352,87,7,Equipment Failure,Sensor malfunction,2024-01-10 23:13:00,2024-01-11 00:09:28,56.5,Supplier issue,Settings adjusted
+353,87,8,Equipment Failure,Hydraulic leak,2024-01-11 00:03:00,2024-01-11 00:47:00,44,Supplier issue,Root cause pending
+354,88,18,Equipment Failure,Sensor malfunction,2024-01-10 11:49:00,2024-01-10 12:35:03,46.1,Process variation,Escalated to engineering
+355,88,22,Material,Part shortage,2024-01-10 11:27:00,2024-01-10 11:46:18,19.3,Design flaw,Operator retrained
+356,89,22,Changeover,Tool change,2024-01-10 14:51:00,2024-01-10 15:14:28,23.5,Unknown,Root cause pending
+357,89,22,Changeover,Tool change,2024-01-10 16:55:00,2024-01-10 17:28:32,33.5,Process variation,Operator retrained
+358,89,17,Equipment Failure,PLC fault,2024-01-10 17:12:00,2024-01-10 18:11:09,59.2,Process variation,Part replaced
+359,89,13,Changeover,Tool change,2024-01-10 20:29:00,2024-01-10 21:06:46,37.8,Worn component,Temporary fix applied
+360,89,22,Material,Material quality issue,2024-01-10 16:41:00,2024-01-10 16:56:44,15.7,Supplier issue,Part replaced
+361,90,13,Equipment Failure,PLC fault,2024-01-11 03:37:00,2024-01-11 04:00:38,23.6,Design flaw,Operator retrained
+362,90,22,Equipment Failure,Hydraulic leak,2024-01-11 04:41:00,2024-01-11 05:36:04,55.1,Design flaw,Part replaced
+363,90,16,Planned Maintenance,Scheduled PM,2024-01-11 02:29:00,2024-01-11 03:28:05,59.1,Supplier issue,Root cause pending
+364,90,19,Changeover,Fixture swap,2024-01-11 03:14:00,2024-01-11 03:36:21,22.4,Design flaw,Settings adjusted
+365,90,15,Equipment Failure,Pneumatic failure,2024-01-11 01:54:00,2024-01-11 02:50:38,56.6,Supplier issue,Temporary fix applied
+366,90,22,Quality Hold,Defect investigation,2024-01-11 01:14:00,2024-01-11 01:27:58,14,Design flaw,Settings adjusted
+367,91,36,Changeover,Fixture swap,2024-01-10 08:35:00,2024-01-10 08:52:59,18,Design flaw,Part replaced
+368,91,32,Planned Maintenance,Lubrication,2024-01-10 12:29:00,2024-01-10 13:09:57,41,Process variation,Temporary fix applied
+369,91,36,Changeover,Tool change,2024-01-10 08:39:00,2024-01-10 09:12:29,33.5,Operator error,Operator retrained
+370,91,35,Quality Hold,Inspection hold,2024-01-10 08:15:00,2024-01-10 08:33:23,18.4,Worn component,Settings adjusted
+371,92,32,Material,Wrong part delivered,2024-01-10 18:06:00,2024-01-10 18:13:02,7,Design flaw,Part replaced
+372,92,25,Changeover,Fixture swap,2024-01-10 14:20:00,2024-01-10 14:35:20,15.3,Worn component,Settings adjusted
+373,93,32,Changeover,Fixture swap,2024-01-11 02:29:00,2024-01-11 02:58:51,29.9,Worn component,Root cause pending
+374,93,29,Quality Hold,Inspection hold,2024-01-10 22:47:00,2024-01-10 23:14:29,27.5,Supplier issue,Root cause pending
+375,93,29,Equipment Failure,Hydraulic leak,2024-01-11 03:15:00,2024-01-11 03:42:08,27.1,Process variation,Root cause pending
+376,93,32,Quality Hold,Inspection hold,2024-01-11 00:20:00,2024-01-11 00:43:33,23.6,Operator error,Part replaced
+377,93,35,Equipment Failure,Motor failure,2024-01-11 02:16:00,2024-01-11 02:31:02,15,Design flaw,Escalated to engineering
+378,94,42,Changeover,Tool change,2024-01-10 06:04:00,2024-01-10 06:43:05,39.1,Supplier issue,Part replaced
+379,94,43,Other,Power fluctuation,2024-01-10 09:42:00,2024-01-10 10:01:43,19.7,Design flaw,Operator retrained
+380,94,43,Equipment Failure,Motor failure,2024-01-10 09:05:00,2024-01-10 09:25:57,21,Process variation,Escalated to engineering
+381,94,37,Material,Material quality issue,2024-01-10 07:19:00,2024-01-10 07:38:56,19.9,Process variation,Settings adjusted
+382,95,47,Quality Hold,Defect investigation,2024-01-10 16:06:00,2024-01-10 16:32:05,26.1,Unknown,Operator retrained
+383,95,47,Equipment Failure,Robot error,2024-01-10 20:16:00,2024-01-10 21:09:17,53.3,Unknown,Escalated to engineering
+384,95,39,Equipment Failure,Hydraulic leak,2024-01-10 16:25:00,2024-01-10 17:18:54,53.9,Operator error,Settings adjusted
+385,95,43,Material,Wrong part delivered,2024-01-10 21:29:00,2024-01-10 21:40:31,11.5,Unknown,Settings adjusted
+386,96,42,Operator,Operator unavailable,2024-01-11 01:31:00,2024-01-11 01:52:30,21.5,Operator error,Root cause pending
+387,96,46,Quality Hold,Inspection hold,2024-01-11 00:08:00,2024-01-11 00:31:31,23.5,Supplier issue,Escalated to engineering
+388,96,42,Equipment Failure,Motor failure,2024-01-11 01:14:00,2024-01-11 02:07:30,53.5,Worn component,Operator retrained
+389,96,38,Other,Environmental issue,2024-01-11 00:20:00,2024-01-11 00:41:05,21.1,Unknown,Part replaced
+390,96,42,Changeover,Fixture swap,2024-01-11 04:51:00,2024-01-11 05:26:15,35.3,Design flaw,Part replaced
+391,97,12,Operator,Training,2024-01-11 10:58:00,2024-01-11 11:14:13,16.2,Process variation,Escalated to engineering
+392,97,12,Operator,Operator unavailable,2024-01-11 12:45:00,2024-01-11 13:10:44,25.7,Operator error,Root cause pending
+393,97,2,Quality Hold,Rework backlog,2024-01-11 06:11:00,2024-01-11 06:39:29,28.5,Unknown,Operator retrained
+394,97,3,Changeover,Fixture swap,2024-01-11 07:31:00,2024-01-11 07:51:49,20.8,Process variation,Settings adjusted
+395,97,7,Changeover,Fixture swap,2024-01-11 13:21:00,2024-01-11 14:03:45,42.8,Operator error,Root cause pending
+396,97,4,Quality Hold,Rework backlog,2024-01-11 13:29:00,2024-01-11 13:41:00,12,Supplier issue,Part replaced
+397,98,8,Changeover,Tool change,2024-01-11 18:31:00,2024-01-11 19:06:39,35.7,Design flaw,Temporary fix applied
+398,98,7,Equipment Failure,PLC fault,2024-01-11 16:58:00,2024-01-11 17:43:10,45.2,Worn component,Part replaced
+399,98,6,Other,Power fluctuation,2024-01-11 19:34:00,2024-01-11 19:51:08,17.1,Process variation,Part replaced
+400,98,5,Equipment Failure,Sensor malfunction,2024-01-11 16:25:00,2024-01-11 17:12:40,47.7,Design flaw,Temporary fix applied
+401,98,1,Changeover,Model changeover,2024-01-11 18:19:00,2024-01-11 18:56:59,38,Process variation,Root cause pending
+402,99,11,Equipment Failure,Robot error,2024-01-11 22:39:00,2024-01-11 23:02:23,23.4,Operator error,Temporary fix applied
+403,99,1,Planned Maintenance,Scheduled PM,2024-01-11 22:27:00,2024-01-11 23:24:25,57.4,Process variation,Escalated to engineering
+404,99,2,Other,Environmental issue,2024-01-12 01:57:00,2024-01-12 02:18:20,21.3,Worn component,Settings adjusted
+405,99,1,Other,Environmental issue,2024-01-11 23:27:00,2024-01-11 23:33:54,6.9,Design flaw,Part replaced
+406,99,11,Changeover,Tool change,2024-01-11 22:06:00,2024-01-11 22:42:56,36.9,Operator error,Root cause pending
+407,100,18,Changeover,Tool change,2024-01-11 10:27:00,2024-01-11 10:45:03,18.1,Process variation,Settings adjusted
+408,100,18,Operator,Safety incident,2024-01-11 08:15:00,2024-01-11 08:30:59,16,Supplier issue,Temporary fix applied
+409,101,15,Quality Hold,Inspection hold,2024-01-11 17:29:00,2024-01-11 17:56:33,27.6,Operator error,Part replaced
+410,101,20,Equipment Failure,Motor failure,2024-01-11 15:02:00,2024-01-11 15:53:48,51.8,Unknown,Operator retrained
+411,102,18,Material,Part shortage,2024-01-12 04:42:00,2024-01-12 05:02:19,20.3,Unknown,Root cause pending
+412,102,16,Operator,Operator unavailable,2024-01-12 00:21:00,2024-01-12 00:50:07,29.1,Process variation,Temporary fix applied
+413,102,22,Quality Hold,Rework backlog,2024-01-11 22:56:00,2024-01-11 23:19:50,23.8,Design flaw,Root cause pending
+414,102,16,Equipment Failure,Motor failure,2024-01-12 02:12:00,2024-01-12 02:34:01,22,Process variation,Operator retrained
+415,103,25,Other,Power fluctuation,2024-01-11 11:55:00,2024-01-11 12:15:54,20.9,Supplier issue,Part replaced
+416,103,35,Equipment Failure,Robot error,2024-01-11 13:14:00,2024-01-11 14:09:04,55.1,Worn component,Escalated to engineering
+417,103,23,Changeover,Fixture swap,2024-01-11 07:28:00,2024-01-11 07:56:56,28.9,Worn component,Temporary fix applied
+418,103,24,Equipment Failure,Robot error,2024-01-11 09:40:00,2024-01-11 09:55:15,15.3,Design flaw,Part replaced
+419,104,30,Quality Hold,Defect investigation,2024-01-11 19:16:00,2024-01-11 19:45:46,29.8,Design flaw,Settings adjusted
+420,104,29,Equipment Failure,Sensor malfunction,2024-01-11 15:35:00,2024-01-11 15:56:06,21.1,Unknown,Root cause pending
+421,104,25,Other,Environmental issue,2024-01-11 15:30:00,2024-01-11 15:58:27,28.5,Process variation,Root cause pending
+422,104,31,Planned Maintenance,Lubrication,2024-01-11 21:02:00,2024-01-11 21:39:22,37.4,Unknown,Part replaced
+423,104,29,Equipment Failure,Robot error,2024-01-11 15:56:00,2024-01-11 16:49:59,54,Worn component,Root cause pending
+424,104,29,Changeover,Fixture swap,2024-01-11 18:20:00,2024-01-11 18:43:18,23.3,Process variation,Settings adjusted
+425,105,25,Equipment Failure,Pneumatic failure,2024-01-12 05:17:00,2024-01-12 05:33:23,16.4,Process variation,Temporary fix applied
+426,105,25,Other,Power fluctuation,2024-01-11 23:59:00,2024-01-12 00:13:05,14.1,Worn component,Temporary fix applied
+427,106,39,Planned Maintenance,Lubrication,2024-01-11 06:06:00,2024-01-11 06:47:12,41.2,Worn component,Escalated to engineering
+428,106,41,Material,Part shortage,2024-01-11 09:39:00,2024-01-11 09:56:20,17.3,Supplier issue,Operator retrained
+429,106,43,Equipment Failure,Sensor malfunction,2024-01-11 13:07:00,2024-01-11 13:53:43,46.7,Supplier issue,Root cause pending
+430,106,47,Equipment Failure,Robot error,2024-01-11 07:15:00,2024-01-11 07:52:27,37.5,Supplier issue,Settings adjusted
+431,107,43,Equipment Failure,Motor failure,2024-01-11 16:37:00,2024-01-11 17:18:57,42,Unknown,Escalated to engineering
+432,107,37,Equipment Failure,Sensor malfunction,2024-01-11 14:03:00,2024-01-11 14:24:41,21.7,Worn component,Settings adjusted
+433,107,44,Changeover,Model changeover,2024-01-11 14:28:00,2024-01-11 15:11:59,44,Operator error,Escalated to engineering
+434,107,42,Planned Maintenance,Lubrication,2024-01-11 16:09:00,2024-01-11 16:32:26,23.4,Unknown,Root cause pending
+435,107,45,Quality Hold,Inspection hold,2024-01-11 14:29:00,2024-01-11 14:52:11,23.2,Worn component,Root cause pending
+436,108,48,Changeover,Fixture swap,2024-01-11 23:05:00,2024-01-11 23:36:47,31.8,Process variation,Part replaced
+437,108,49,Changeover,Model changeover,2024-01-12 05:22:00,2024-01-12 05:43:48,21.8,Supplier issue,Root cause pending
+438,108,41,Quality Hold,Inspection hold,2024-01-12 05:07:00,2024-01-12 05:35:08,28.1,Supplier issue,Root cause pending
+439,108,47,Equipment Failure,Robot error,2024-01-11 22:26:00,2024-01-11 22:46:16,20.3,Process variation,Settings adjusted
+440,108,38,Material,Part shortage,2024-01-11 22:06:00,2024-01-11 22:21:08,15.1,Design flaw,Root cause pending
+441,108,40,Material,Part shortage,2024-01-12 00:30:00,2024-01-12 00:53:52,23.9,Supplier issue,Operator retrained
+442,109,12,Other,Power fluctuation,2024-01-12 09:41:00,2024-01-12 10:01:21,20.4,Unknown,Settings adjusted
+443,109,7,Planned Maintenance,Lubrication,2024-01-12 13:29:00,2024-01-12 14:10:06,41.1,Design flaw,Temporary fix applied
+444,109,7,Operator,Training,2024-01-12 12:07:00,2024-01-12 12:30:23,23.4,Worn component,Root cause pending
+445,110,3,Planned Maintenance,Lubrication,2024-01-12 16:24:00,2024-01-12 17:23:20,59.3,Design flaw,Part replaced
+446,110,4,Equipment Failure,Robot error,2024-01-12 19:43:00,2024-01-12 20:36:27,53.5,Unknown,Temporary fix applied
+447,111,9,Changeover,Fixture swap,2024-01-13 02:43:00,2024-01-13 03:19:48,36.8,Unknown,Escalated to engineering
+448,111,3,Equipment Failure,Pneumatic failure,2024-01-13 05:06:00,2024-01-13 05:33:34,27.6,Unknown,Root cause pending
+449,111,8,Equipment Failure,Sensor malfunction,2024-01-13 04:16:00,2024-01-13 04:26:39,10.7,Unknown,Temporary fix applied
+450,111,6,Equipment Failure,Robot error,2024-01-13 01:19:00,2024-01-13 01:57:07,38.1,Unknown,Settings adjusted
+451,111,3,Changeover,Model changeover,2024-01-13 04:16:00,2024-01-13 04:36:51,20.9,Process variation,Escalated to engineering
+452,111,6,Changeover,Tool change,2024-01-13 03:26:00,2024-01-13 03:48:45,22.8,Design flaw,Temporary fix applied
+453,112,19,Planned Maintenance,Lubrication,2024-01-12 10:18:00,2024-01-12 10:56:57,39,Operator error,Root cause pending
+454,112,17,Changeover,Tool change,2024-01-12 12:19:00,2024-01-12 12:38:17,19.3,Unknown,Part replaced
+455,112,22,Operator,Training,2024-01-12 09:37:00,2024-01-12 09:46:20,9.3,Supplier issue,Settings adjusted
+456,112,14,Planned Maintenance,Scheduled PM,2024-01-12 10:10:00,2024-01-12 10:54:01,44,Operator error,Part replaced
+457,112,15,Quality Hold,Inspection hold,2024-01-12 08:24:00,2024-01-12 08:31:01,7,Unknown,Part replaced
+458,113,15,Equipment Failure,PLC fault,2024-01-12 21:17:00,2024-01-12 21:36:50,19.8,Process variation,Settings adjusted
+459,113,21,Material,Part shortage,2024-01-12 15:28:00,2024-01-12 15:55:39,27.7,Unknown,Operator retrained
+460,114,21,Equipment Failure,Motor failure,2024-01-13 02:34:00,2024-01-13 03:21:33,47.6,Unknown,Settings adjusted
+461,114,22,Changeover,Model changeover,2024-01-13 02:19:00,2024-01-13 02:44:13,25.2,Design flaw,Temporary fix applied
+462,114,19,Quality Hold,Inspection hold,2024-01-13 05:27:00,2024-01-13 05:36:49,9.8,Worn component,Part replaced
+463,114,14,Material,Wrong part delivered,2024-01-13 02:33:00,2024-01-13 02:48:49,15.8,Process variation,Temporary fix applied
+464,114,15,Operator,Operator unavailable,2024-01-13 04:09:00,2024-01-13 04:16:07,7.1,Worn component,Part replaced
+465,114,17,Material,Wrong part delivered,2024-01-13 00:53:00,2024-01-13 01:06:08,13.1,Operator error,Root cause pending
+466,115,23,Operator,Safety incident,2024-01-12 10:29:00,2024-01-12 10:43:49,14.8,Unknown,Operator retrained
+467,115,25,Equipment Failure,Robot error,2024-01-12 07:44:00,2024-01-12 08:36:42,52.7,Worn component,Escalated to engineering
+468,116,33,Changeover,Model changeover,2024-01-12 14:13:00,2024-01-12 14:49:34,36.6,Unknown,Root cause pending
+469,116,35,Equipment Failure,Sensor malfunction,2024-01-12 20:19:00,2024-01-12 21:09:32,50.5,Supplier issue,Operator retrained
+470,116,29,Material,Part shortage,2024-01-12 19:09:00,2024-01-12 19:25:35,16.6,Operator error,Temporary fix applied
+471,116,35,Equipment Failure,Pneumatic failure,2024-01-12 18:09:00,2024-01-12 18:47:41,38.7,Design flaw,Root cause pending
+472,117,32,Planned Maintenance,Scheduled PM,2024-01-13 02:32:00,2024-01-13 03:19:11,47.2,Worn component,Settings adjusted
+473,117,36,Operator,Training,2024-01-13 04:05:00,2024-01-13 04:12:29,7.5,Design flaw,Settings adjusted
+474,117,29,Equipment Failure,PLC fault,2024-01-13 05:10:00,2024-01-13 06:03:11,53.2,Process variation,Root cause pending
+475,117,26,Material,Wrong part delivered,2024-01-13 04:08:00,2024-01-13 04:18:34,10.6,Process variation,Escalated to engineering
+476,117,32,Changeover,Fixture swap,2024-01-13 02:24:00,2024-01-13 03:06:50,42.8,Operator error,Escalated to engineering
+477,117,29,Other,IT system down,2024-01-13 04:39:00,2024-01-13 05:05:59,27,Operator error,Escalated to engineering
+478,118,49,Equipment Failure,Motor failure,2024-01-12 11:31:00,2024-01-12 12:00:35,29.6,Design flaw,Operator retrained
+479,118,46,Equipment Failure,Motor failure,2024-01-12 08:01:00,2024-01-12 08:37:01,36,Operator error,Settings adjusted
+480,119,37,Quality Hold,Inspection hold,2024-01-12 17:01:00,2024-01-12 17:14:22,13.4,Operator error,Temporary fix applied
+481,119,43,Equipment Failure,Sensor malfunction,2024-01-12 14:24:00,2024-01-12 15:13:56,49.9,Operator error,Operator retrained
+482,119,45,Operator,Safety incident,2024-01-12 14:56:00,2024-01-12 15:02:40,6.7,Unknown,Operator retrained
+483,120,38,Planned Maintenance,Calibration,2024-01-13 01:32:00,2024-01-13 02:17:28,45.5,Supplier issue,Root cause pending
+484,120,48,Equipment Failure,Robot error,2024-01-13 04:09:00,2024-01-13 04:34:46,25.8,Unknown,Escalated to engineering
+485,120,41,Equipment Failure,Sensor malfunction,2024-01-13 01:10:00,2024-01-13 01:34:43,24.7,Supplier issue,Root cause pending
+486,120,49,Planned Maintenance,Scheduled PM,2024-01-13 01:39:00,2024-01-13 02:33:31,54.5,Operator error,Temporary fix applied
+487,120,43,Material,Part shortage,2024-01-13 00:04:00,2024-01-13 00:10:48,6.8,Supplier issue,Root cause pending
+488,121,3,Equipment Failure,Sensor malfunction,2024-01-15 12:45:00,2024-01-15 13:36:30,51.5,Worn component,Temporary fix applied
+489,121,7,Equipment Failure,Robot error,2024-01-15 10:14:00,2024-01-15 10:30:42,16.7,Supplier issue,Part replaced
+490,121,6,Equipment Failure,Motor failure,2024-01-15 13:14:00,2024-01-15 13:33:23,19.4,Supplier issue,Temporary fix applied
+491,121,12,Equipment Failure,Motor failure,2024-01-15 12:38:00,2024-01-15 12:59:26,21.4,Unknown,Root cause pending
+492,122,1,Operator,Operator unavailable,2024-01-15 16:31:00,2024-01-15 16:56:50,25.8,Process variation,Root cause pending
+493,122,6,Planned Maintenance,Lubrication,2024-01-15 20:41:00,2024-01-15 21:16:59,36,Operator error,Part replaced
+494,122,8,Equipment Failure,Hydraulic leak,2024-01-15 16:22:00,2024-01-15 16:45:56,23.9,Process variation,Root cause pending
+495,122,8,Equipment Failure,Motor failure,2024-01-15 19:26:00,2024-01-15 19:54:04,28.1,Design flaw,Temporary fix applied
+496,122,8,Material,Wrong part delivered,2024-01-15 16:02:00,2024-01-15 16:26:34,24.6,Worn component,Part replaced
+497,122,3,Planned Maintenance,Calibration,2024-01-15 16:46:00,2024-01-15 17:20:24,34.4,Supplier issue,Settings adjusted
+498,123,3,Equipment Failure,Pneumatic failure,2024-01-16 03:42:00,2024-01-16 04:29:12,47.2,Supplier issue,Temporary fix applied
+499,123,8,Material,Wrong part delivered,2024-01-15 22:32:00,2024-01-15 22:40:41,8.7,Unknown,Temporary fix applied
+500,124,20,Equipment Failure,Hydraulic leak,2024-01-15 11:12:00,2024-01-15 11:25:31,13.5,Process variation,Escalated to engineering
+501,124,13,Equipment Failure,Motor failure,2024-01-15 09:35:00,2024-01-15 10:34:03,59.1,Operator error,Root cause pending
+502,124,22,Equipment Failure,Hydraulic leak,2024-01-15 10:42:00,2024-01-15 10:52:57,11,Operator error,Operator retrained
+503,124,14,Planned Maintenance,Calibration,2024-01-15 12:45:00,2024-01-15 13:24:17,39.3,Operator error,Temporary fix applied
+504,125,17,Material,Wrong part delivered,2024-01-15 16:54:00,2024-01-15 17:11:42,17.7,Design flaw,Settings adjusted
+505,125,21,Quality Hold,Defect investigation,2024-01-15 19:50:00,2024-01-15 19:59:42,9.7,Supplier issue,Settings adjusted
+506,125,20,Quality Hold,Rework backlog,2024-01-15 20:36:00,2024-01-15 20:41:07,5.1,Worn component,Operator retrained
+507,125,17,Changeover,Fixture swap,2024-01-15 20:25:00,2024-01-15 20:52:41,27.7,Supplier issue,Root cause pending
+508,125,15,Changeover,Fixture swap,2024-01-15 21:26:00,2024-01-15 21:49:42,23.7,Operator error,Root cause pending
+509,125,19,Operator,Training,2024-01-15 14:43:00,2024-01-15 14:56:22,13.4,Operator error,Root cause pending
+510,126,17,Material,Material quality issue,2024-01-15 22:25:00,2024-01-15 22:34:23,9.4,Design flaw,Root cause pending
+511,126,18,Changeover,Fixture swap,2024-01-16 03:28:00,2024-01-16 03:48:50,20.8,Design flaw,Operator retrained
+512,127,25,Operator,Training,2024-01-15 06:06:00,2024-01-15 06:14:10,8.2,Supplier issue,Temporary fix applied
+513,127,23,Quality Hold,Inspection hold,2024-01-15 08:57:00,2024-01-15 09:20:28,23.5,Process variation,Operator retrained
+514,127,34,Equipment Failure,Hydraulic leak,2024-01-15 09:25:00,2024-01-15 09:55:14,30.2,Worn component,Settings adjusted
+515,127,33,Quality Hold,Inspection hold,2024-01-15 13:08:00,2024-01-15 13:22:30,14.5,Design flaw,Operator retrained
+516,128,31,Changeover,Fixture swap,2024-01-15 17:00:00,2024-01-15 17:23:25,23.4,Operator error,Escalated to engineering
+517,128,35,Material,Material quality issue,2024-01-15 18:21:00,2024-01-15 18:26:32,5.5,Operator error,Escalated to engineering
+518,128,26,Changeover,Tool change,2024-01-15 20:39:00,2024-01-15 21:22:40,43.7,Supplier issue,Settings adjusted
+519,128,29,Planned Maintenance,Lubrication,2024-01-15 16:58:00,2024-01-15 17:57:36,59.6,Operator error,Part replaced
+520,129,24,Equipment Failure,Sensor malfunction,2024-01-16 01:59:00,2024-01-16 02:43:22,44.4,Unknown,Temporary fix applied
+521,129,23,Material,Wrong part delivered,2024-01-16 03:16:00,2024-01-16 03:35:08,19.1,Process variation,Root cause pending
+522,129,33,Equipment Failure,Sensor malfunction,2024-01-15 22:15:00,2024-01-15 22:44:33,29.6,Supplier issue,Escalated to engineering
+523,130,39,Equipment Failure,Hydraulic leak,2024-01-15 07:01:00,2024-01-15 07:50:04,49.1,Operator error,Operator retrained
+524,130,37,Planned Maintenance,Calibration,2024-01-15 09:59:00,2024-01-15 10:57:34,58.6,Worn component,Operator retrained
+525,131,44,Other,Power fluctuation,2024-01-15 16:37:00,2024-01-15 16:45:28,8.5,Design flaw,Root cause pending
+526,131,43,Equipment Failure,Hydraulic leak,2024-01-15 14:16:00,2024-01-15 14:54:20,38.3,Supplier issue,Operator retrained
+527,131,42,Changeover,Model changeover,2024-01-15 15:36:00,2024-01-15 16:08:07,32.1,Unknown,Temporary fix applied
+528,131,47,Changeover,Model changeover,2024-01-15 14:52:00,2024-01-15 15:30:26,38.4,Process variation,Root cause pending
+529,132,39,Equipment Failure,Motor failure,2024-01-16 03:58:00,2024-01-16 04:28:52,30.9,Unknown,Settings adjusted
+530,132,45,Changeover,Model changeover,2024-01-16 01:29:00,2024-01-16 01:46:40,17.7,Operator error,Temporary fix applied
+531,132,42,Equipment Failure,Hydraulic leak,2024-01-15 23:53:00,2024-01-16 00:09:30,16.5,Worn component,Escalated to engineering
+532,132,37,Equipment Failure,Pneumatic failure,2024-01-16 01:12:00,2024-01-16 01:44:21,32.4,Process variation,Escalated to engineering
+533,133,1,Planned Maintenance,Lubrication,2024-01-16 08:53:00,2024-01-16 09:44:38,51.6,Operator error,Operator retrained
+534,133,7,Changeover,Tool change,2024-01-16 11:29:00,2024-01-16 11:57:20,28.3,Design flaw,Settings adjusted
+535,133,7,Equipment Failure,Motor failure,2024-01-16 09:47:00,2024-01-16 10:41:46,54.8,Process variation,Root cause pending
+536,134,3,Operator,Safety incident,2024-01-16 17:43:00,2024-01-16 18:02:20,19.3,Process variation,Escalated to engineering
+537,134,3,Planned Maintenance,Calibration,2024-01-16 14:39:00,2024-01-16 15:29:30,50.5,Supplier issue,Settings adjusted
+538,135,1,Quality Hold,Defect investigation,2024-01-17 04:25:00,2024-01-17 04:31:09,6.2,Worn component,Root cause pending
+539,135,9,Changeover,Fixture swap,2024-01-17 02:49:00,2024-01-17 03:26:52,37.9,Process variation,Settings adjusted
+540,135,3,Equipment Failure,Pneumatic failure,2024-01-17 02:14:00,2024-01-17 02:56:00,42,Operator error,Settings adjusted
+541,136,20,Planned Maintenance,Lubrication,2024-01-16 08:02:00,2024-01-16 08:38:41,36.7,Supplier issue,Settings adjusted
+542,136,22,Equipment Failure,PLC fault,2024-01-16 10:35:00,2024-01-16 11:17:42,42.7,Unknown,Operator retrained
+543,136,18,Operator,Training,2024-01-16 09:22:00,2024-01-16 09:39:41,17.7,Supplier issue,Root cause pending
+544,137,15,Equipment Failure,Motor failure,2024-01-16 14:02:00,2024-01-16 14:52:03,50.1,Supplier issue,Operator retrained
+545,137,21,Planned Maintenance,Scheduled PM,2024-01-16 15:31:00,2024-01-16 16:17:55,46.9,Design flaw,Temporary fix applied
+546,137,16,Material,Part shortage,2024-01-16 16:06:00,2024-01-16 16:21:19,15.3,Worn component,Temporary fix applied
+547,137,22,Changeover,Fixture swap,2024-01-16 14:59:00,2024-01-16 15:43:48,44.8,Process variation,Temporary fix applied
+548,137,13,Equipment Failure,Sensor malfunction,2024-01-16 18:31:00,2024-01-16 19:13:19,42.3,Process variation,Settings adjusted
+549,137,19,Material,Wrong part delivered,2024-01-16 20:37:00,2024-01-16 21:04:51,27.9,Unknown,Operator retrained
+550,138,22,Operator,Training,2024-01-17 01:03:00,2024-01-17 01:21:30,18.5,Operator error,Escalated to engineering
+551,138,18,Other,Environmental issue,2024-01-17 04:44:00,2024-01-17 05:10:27,26.5,Worn component,Part replaced
+552,138,13,Changeover,Model changeover,2024-01-17 01:00:00,2024-01-17 01:39:15,39.3,Supplier issue,Settings adjusted
+553,139,36,Quality Hold,Rework backlog,2024-01-16 09:00:00,2024-01-16 09:21:50,21.8,Supplier issue,Temporary fix applied
+554,139,34,Changeover,Tool change,2024-01-16 10:23:00,2024-01-16 10:38:52,15.9,Design flaw,Root cause pending
+555,139,23,Equipment Failure,Pneumatic failure,2024-01-16 09:40:00,2024-01-16 09:52:24,12.4,Operator error,Part replaced
+556,139,24,Changeover,Model changeover,2024-01-16 09:20:00,2024-01-16 09:55:33,35.6,Worn component,Part replaced
+557,139,32,Operator,Safety incident,2024-01-16 13:07:00,2024-01-16 13:29:44,22.7,Supplier issue,Root cause pending
+558,139,33,Equipment Failure,Hydraulic leak,2024-01-16 07:13:00,2024-01-16 07:50:33,37.6,Operator error,Settings adjusted
+559,140,29,Equipment Failure,Robot error,2024-01-16 20:47:00,2024-01-16 21:12:14,25.2,Operator error,Operator retrained
+560,140,24,Equipment Failure,PLC fault,2024-01-16 17:12:00,2024-01-16 17:24:49,12.8,Unknown,Part replaced
+561,140,25,Quality Hold,Inspection hold,2024-01-16 18:45:00,2024-01-16 18:51:25,6.4,Operator error,Settings adjusted
+562,140,33,Material,Part shortage,2024-01-16 18:42:00,2024-01-16 18:47:50,5.8,Unknown,Operator retrained
+563,141,34,Changeover,Fixture swap,2024-01-17 04:30:00,2024-01-17 04:58:29,28.5,Worn component,Settings adjusted
+564,141,30,Planned Maintenance,Lubrication,2024-01-17 04:49:00,2024-01-17 05:25:58,37,Process variation,Escalated to engineering
+565,141,25,Other,Environmental issue,2024-01-16 22:42:00,2024-01-16 22:47:40,5.7,Operator error,Settings adjusted
+566,141,28,Equipment Failure,Motor failure,2024-01-17 01:24:00,2024-01-17 01:53:46,29.8,Worn component,Operator retrained
+567,141,32,Equipment Failure,Hydraulic leak,2024-01-16 23:43:00,2024-01-17 00:07:51,24.9,Worn component,Escalated to engineering
+568,141,32,Equipment Failure,Pneumatic failure,2024-01-17 00:39:00,2024-01-17 01:35:18,56.3,Design flaw,Settings adjusted
+569,142,44,Operator,Safety incident,2024-01-16 10:54:00,2024-01-16 11:07:45,13.8,Worn component,Operator retrained
+570,142,39,Equipment Failure,Pneumatic failure,2024-01-16 12:50:00,2024-01-16 13:39:24,49.4,Design flaw,Temporary fix applied
+571,142,44,Equipment Failure,PLC fault,2024-01-16 10:23:00,2024-01-16 10:53:42,30.7,Design flaw,Temporary fix applied
+572,142,48,Equipment Failure,PLC fault,2024-01-16 11:41:00,2024-01-16 11:51:38,10.6,Process variation,Temporary fix applied
+573,142,37,Material,Part shortage,2024-01-16 09:39:00,2024-01-16 09:54:05,15.1,Design flaw,Root cause pending
+574,142,37,Equipment Failure,Robot error,2024-01-16 06:12:00,2024-01-16 07:11:39,59.7,Operator error,Part replaced
+575,143,48,Changeover,Tool change,2024-01-16 17:43:00,2024-01-16 18:12:30,29.5,Operator error,Part replaced
+576,143,39,Quality Hold,Rework backlog,2024-01-16 17:52:00,2024-01-16 17:59:21,7.4,Operator error,Temporary fix applied
+577,143,38,Operator,Training,2024-01-16 18:41:00,2024-01-16 19:04:33,23.6,Supplier issue,Settings adjusted
+578,143,46,Changeover,Model changeover,2024-01-16 17:04:00,2024-01-16 17:38:26,34.4,Design flaw,Part replaced
+579,144,41,Quality Hold,Rework backlog,2024-01-17 01:36:00,2024-01-17 01:56:07,20.1,Process variation,Escalated to engineering
+580,144,42,Quality Hold,Defect investigation,2024-01-17 00:52:00,2024-01-17 01:06:32,14.5,Design flaw,Root cause pending
+581,144,46,Material,Wrong part delivered,2024-01-16 23:36:00,2024-01-16 23:51:24,15.4,Operator error,Temporary fix applied
+582,145,11,Planned Maintenance,Scheduled PM,2024-01-17 10:51:00,2024-01-17 11:45:25,54.4,Operator error,Root cause pending
+583,145,1,Quality Hold,Inspection hold,2024-01-17 12:16:00,2024-01-17 12:30:14,14.2,Operator error,Operator retrained
+584,145,9,Changeover,Model changeover,2024-01-17 10:53:00,2024-01-17 11:27:21,34.4,Design flaw,Part replaced
+585,146,8,Planned Maintenance,Calibration,2024-01-17 19:50:00,2024-01-17 20:38:36,48.6,Design flaw,Temporary fix applied
+586,146,9,Equipment Failure,Pneumatic failure,2024-01-17 20:26:00,2024-01-17 20:57:44,31.7,Worn component,Temporary fix applied
+587,146,8,Equipment Failure,PLC fault,2024-01-17 21:28:00,2024-01-17 21:49:45,21.8,Unknown,Operator retrained
+588,146,11,Changeover,Tool change,2024-01-17 20:21:00,2024-01-17 20:36:29,15.5,Supplier issue,Part replaced
+589,146,5,Material,Part shortage,2024-01-17 14:46:00,2024-01-17 15:01:39,15.7,Process variation,Escalated to engineering
+590,146,1,Equipment Failure,Pneumatic failure,2024-01-17 20:18:00,2024-01-17 21:07:40,49.7,Supplier issue,Settings adjusted
+591,147,2,Quality Hold,Inspection hold,2024-01-18 02:38:00,2024-01-18 02:43:29,5.5,Supplier issue,Escalated to engineering
+592,147,9,Equipment Failure,Robot error,2024-01-18 02:12:00,2024-01-18 02:37:07,25.1,Process variation,Operator retrained
+593,147,11,Changeover,Fixture swap,2024-01-18 01:55:00,2024-01-18 02:30:45,35.8,Worn component,Settings adjusted
+594,147,3,Changeover,Fixture swap,2024-01-18 00:32:00,2024-01-18 00:54:30,22.5,Design flaw,Settings adjusted
+595,147,5,Material,Part shortage,2024-01-17 23:30:00,2024-01-17 23:46:08,16.1,Operator error,Root cause pending
+596,148,20,Quality Hold,Rework backlog,2024-01-17 08:11:00,2024-01-17 08:40:29,29.5,Operator error,Operator retrained
+597,148,14,Changeover,Fixture swap,2024-01-17 11:59:00,2024-01-17 12:37:26,38.4,Design flaw,Settings adjusted
+598,148,13,Operator,Training,2024-01-17 13:10:00,2024-01-17 13:28:09,18.2,Unknown,Temporary fix applied
+599,149,18,Changeover,Tool change,2024-01-17 17:49:00,2024-01-17 18:30:54,41.9,Process variation,Escalated to engineering
+600,149,19,Quality Hold,Defect investigation,2024-01-17 16:57:00,2024-01-17 17:20:15,23.3,Worn component,Root cause pending
+601,149,20,Changeover,Tool change,2024-01-17 14:40:00,2024-01-17 15:06:29,26.5,Worn component,Part replaced
+602,149,15,Quality Hold,Inspection hold,2024-01-17 16:57:00,2024-01-17 17:26:53,29.9,Unknown,Temporary fix applied
+603,149,19,Equipment Failure,PLC fault,2024-01-17 16:26:00,2024-01-17 17:19:55,53.9,Worn component,Operator retrained
+604,150,13,Quality Hold,Inspection hold,2024-01-18 04:21:00,2024-01-18 04:50:42,29.7,Process variation,Settings adjusted
+605,150,14,Operator,Safety incident,2024-01-17 23:22:00,2024-01-17 23:28:49,6.8,Unknown,Operator retrained
+606,150,18,Changeover,Fixture swap,2024-01-17 23:25:00,2024-01-17 23:47:48,22.8,Supplier issue,Part replaced
+607,150,18,Equipment Failure,Sensor malfunction,2024-01-18 05:20:00,2024-01-18 06:03:59,44,Supplier issue,Part replaced
+608,151,32,Changeover,Model changeover,2024-01-17 07:53:00,2024-01-17 08:12:52,19.9,Operator error,Root cause pending
+609,151,28,Other,Environmental issue,2024-01-17 06:16:00,2024-01-17 06:36:10,20.2,Design flaw,Temporary fix applied
+610,151,28,Equipment Failure,Motor failure,2024-01-17 08:46:00,2024-01-17 09:12:47,26.8,Supplier issue,Operator retrained
+611,151,26,Changeover,Fixture swap,2024-01-17 07:46:00,2024-01-17 08:15:29,29.5,Process variation,Operator retrained
+612,151,26,Planned Maintenance,Lubrication,2024-01-17 11:34:00,2024-01-17 12:25:30,51.5,Worn component,Root cause pending
+613,152,23,Quality Hold,Inspection hold,2024-01-17 19:31:00,2024-01-17 19:49:51,18.9,Unknown,Part replaced
+614,152,33,Operator,Operator unavailable,2024-01-17 17:16:00,2024-01-17 17:44:59,29,Operator error,Escalated to engineering
+615,152,35,Equipment Failure,Robot error,2024-01-17 18:04:00,2024-01-17 18:34:49,30.8,Design flaw,Escalated to engineering
+616,152,25,Planned Maintenance,Lubrication,2024-01-17 15:32:00,2024-01-17 15:55:09,23.2,Unknown,Part replaced
+617,152,36,Operator,Safety incident,2024-01-17 21:18:00,2024-01-17 21:45:45,27.8,Worn component,Settings adjusted
+618,152,25,Quality Hold,Rework backlog,2024-01-17 18:11:00,2024-01-17 18:28:10,17.2,Operator error,Part replaced
+619,153,34,Planned Maintenance,Scheduled PM,2024-01-18 01:40:00,2024-01-18 02:28:10,48.2,Operator error,Escalated to engineering
+620,153,25,Equipment Failure,PLC fault,2024-01-18 04:43:00,2024-01-18 05:25:33,42.6,Operator error,Escalated to engineering
+621,153,25,Material,Part shortage,2024-01-18 03:33:00,2024-01-18 03:39:27,6.5,Supplier issue,Temporary fix applied
+622,153,35,Changeover,Model changeover,2024-01-18 04:57:00,2024-01-18 05:28:20,31.3,Design flaw,Escalated to engineering
+623,153,30,Other,IT system down,2024-01-17 22:46:00,2024-01-17 23:15:25,29.4,Operator error,Operator retrained
+624,153,35,Equipment Failure,Sensor malfunction,2024-01-18 03:57:00,2024-01-18 04:42:59,46,Process variation,Part replaced
+625,154,37,Quality Hold,Rework backlog,2024-01-17 13:00:00,2024-01-17 13:12:00,12,Unknown,Temporary fix applied
+626,154,43,Equipment Failure,Sensor malfunction,2024-01-17 13:28:00,2024-01-17 14:23:14,55.2,Unknown,Operator retrained
+627,154,41,Changeover,Tool change,2024-01-17 10:03:00,2024-01-17 10:39:39,36.7,Supplier issue,Temporary fix applied
+628,155,39,Equipment Failure,Motor failure,2024-01-17 16:05:00,2024-01-17 16:56:45,51.8,Process variation,Part replaced
+629,155,41,Equipment Failure,Motor failure,2024-01-17 14:08:00,2024-01-17 14:20:03,12.1,Design flaw,Escalated to engineering
+630,155,38,Quality Hold,Defect investigation,2024-01-17 18:37:00,2024-01-17 18:56:29,19.5,Unknown,Operator retrained
+631,155,42,Changeover,Tool change,2024-01-17 18:36:00,2024-01-17 19:14:40,38.7,Process variation,Temporary fix applied
+632,156,42,Changeover,Model changeover,2024-01-18 04:51:00,2024-01-18 05:10:33,19.6,Operator error,Temporary fix applied
+633,156,43,Operator,Safety incident,2024-01-17 22:29:00,2024-01-17 22:51:53,22.9,Worn component,Settings adjusted
+634,156,47,Changeover,Tool change,2024-01-18 02:34:00,2024-01-18 03:14:26,40.4,Operator error,Escalated to engineering
+635,157,6,Equipment Failure,Hydraulic leak,2024-01-18 12:17:00,2024-01-18 12:31:27,14.5,Operator error,Part replaced
+636,157,1,Planned Maintenance,Lubrication,2024-01-18 08:48:00,2024-01-18 09:38:26,50.4,Supplier issue,Part replaced
+637,157,12,Changeover,Fixture swap,2024-01-18 09:55:00,2024-01-18 10:20:10,25.2,Process variation,Escalated to engineering
+638,157,12,Changeover,Fixture swap,2024-01-18 08:08:00,2024-01-18 08:23:13,15.2,Design flaw,Escalated to engineering
+639,157,1,Material,Wrong part delivered,2024-01-18 08:01:00,2024-01-18 08:21:53,20.9,Operator error,Part replaced
+640,157,9,Equipment Failure,PLC fault,2024-01-18 09:55:00,2024-01-18 10:47:17,52.3,Supplier issue,Escalated to engineering
+641,158,5,Operator,Operator unavailable,2024-01-18 17:06:00,2024-01-18 17:31:50,25.8,Unknown,Settings adjusted
+642,158,9,Quality Hold,Defect investigation,2024-01-18 14:59:00,2024-01-18 15:10:47,11.8,Design flaw,Settings adjusted
+643,158,6,Equipment Failure,PLC fault,2024-01-18 20:00:00,2024-01-18 20:18:02,18,Worn component,Part replaced
+644,158,1,Equipment Failure,Hydraulic leak,2024-01-18 18:02:00,2024-01-18 18:43:37,41.6,Unknown,Temporary fix applied
+645,158,1,Equipment Failure,Hydraulic leak,2024-01-18 19:19:00,2024-01-18 20:02:41,43.7,Operator error,Operator retrained
+646,158,1,Equipment Failure,Sensor malfunction,2024-01-18 21:02:00,2024-01-18 21:20:04,18.1,Design flaw,Root cause pending
+647,159,4,Planned Maintenance,Lubrication,2024-01-19 02:23:00,2024-01-19 03:12:00,49,Operator error,Escalated to engineering
+648,159,3,Changeover,Tool change,2024-01-18 23:58:00,2024-01-19 00:36:19,38.3,Unknown,Operator retrained
+649,159,7,Changeover,Tool change,2024-01-18 23:58:00,2024-01-19 00:26:30,28.5,Supplier issue,Escalated to engineering
+650,159,2,Quality Hold,Rework backlog,2024-01-18 22:12:00,2024-01-18 22:19:18,7.3,Design flaw,Root cause pending
+651,159,5,Operator,Training,2024-01-18 23:06:00,2024-01-18 23:30:16,24.3,Supplier issue,Part replaced
+652,160,14,Changeover,Fixture swap,2024-01-18 12:08:00,2024-01-18 12:44:20,36.3,Supplier issue,Root cause pending
+653,160,22,Operator,Safety incident,2024-01-18 09:30:00,2024-01-18 09:51:40,21.7,Supplier issue,Escalated to engineering
+654,160,18,Changeover,Model changeover,2024-01-18 07:59:00,2024-01-18 08:20:18,21.3,Design flaw,Escalated to engineering
+655,161,18,Operator,Training,2024-01-18 18:53:00,2024-01-18 19:19:44,26.7,Operator error,Temporary fix applied
+656,161,15,Material,Material quality issue,2024-01-18 17:11:00,2024-01-18 17:35:14,24.2,Supplier issue,Escalated to engineering
+657,161,19,Operator,Safety incident,2024-01-18 19:34:00,2024-01-18 19:51:29,17.5,Worn component,Operator retrained
+658,161,13,Quality Hold,Defect investigation,2024-01-18 17:29:00,2024-01-18 17:49:07,20.1,Supplier issue,Settings adjusted
+659,161,15,Operator,Training,2024-01-18 17:13:00,2024-01-18 17:20:36,7.6,Design flaw,Operator retrained
+660,162,17,Operator,Safety incident,2024-01-18 22:44:00,2024-01-18 23:01:38,17.6,Supplier issue,Operator retrained
+661,162,21,Planned Maintenance,Scheduled PM,2024-01-19 04:13:00,2024-01-19 04:51:16,38.3,Worn component,Settings adjusted
+662,163,36,Quality Hold,Rework backlog,2024-01-18 08:16:00,2024-01-18 08:40:36,24.6,Unknown,Escalated to engineering
+663,163,36,Planned Maintenance,Scheduled PM,2024-01-18 11:07:00,2024-01-18 11:45:15,38.3,Design flaw,Escalated to engineering
+664,163,36,Equipment Failure,Sensor malfunction,2024-01-18 12:29:00,2024-01-18 12:50:47,21.8,Supplier issue,Temporary fix applied
+665,163,36,Material,Wrong part delivered,2024-01-18 11:08:00,2024-01-18 11:31:22,23.4,Supplier issue,Escalated to engineering
+666,164,27,Planned Maintenance,Lubrication,2024-01-18 20:32:00,2024-01-18 20:54:48,22.8,Unknown,Operator retrained
+667,164,33,Quality Hold,Rework backlog,2024-01-18 15:54:00,2024-01-18 16:02:06,8.1,Worn component,Root cause pending
+668,164,24,Other,IT system down,2024-01-18 19:21:00,2024-01-18 19:26:05,5.1,Supplier issue,Escalated to engineering
+669,164,28,Equipment Failure,Motor failure,2024-01-18 17:58:00,2024-01-18 18:42:54,44.9,Unknown,Escalated to engineering
+670,164,28,Material,Part shortage,2024-01-18 20:28:00,2024-01-18 20:43:22,15.4,Design flaw,Escalated to engineering
+671,165,23,Changeover,Model changeover,2024-01-18 23:12:00,2024-01-18 23:54:43,42.7,Operator error,Escalated to engineering
+672,165,35,Equipment Failure,Robot error,2024-01-19 02:42:00,2024-01-19 03:15:23,33.4,Process variation,Operator retrained
+673,166,41,Planned Maintenance,Scheduled PM,2024-01-18 08:15:00,2024-01-18 08:37:58,23,Worn component,Operator retrained
+674,166,39,Planned Maintenance,Calibration,2024-01-18 11:46:00,2024-01-18 12:38:59,53,Design flaw,Temporary fix applied
+675,167,45,Changeover,Fixture swap,2024-01-18 14:22:00,2024-01-18 15:01:22,39.4,Design flaw,Root cause pending
+676,167,44,Quality Hold,Inspection hold,2024-01-18 18:58:00,2024-01-18 19:18:41,20.7,Design flaw,Temporary fix applied
+677,167,41,Other,Power fluctuation,2024-01-18 14:49:00,2024-01-18 15:07:54,18.9,Operator error,Part replaced
+678,167,42,Quality Hold,Defect investigation,2024-01-18 20:45:00,2024-01-18 20:56:24,11.4,Unknown,Operator retrained
+679,167,38,Planned Maintenance,Calibration,2024-01-18 20:44:00,2024-01-18 21:13:48,29.8,Operator error,Root cause pending
+680,167,40,Material,Part shortage,2024-01-18 20:38:00,2024-01-18 20:59:03,21.1,Operator error,Root cause pending
+681,168,38,Material,Wrong part delivered,2024-01-19 05:03:00,2024-01-19 05:14:41,11.7,Process variation,Temporary fix applied
+682,168,45,Operator,Operator unavailable,2024-01-19 04:04:00,2024-01-19 04:12:36,8.6,Operator error,Escalated to engineering
+683,168,37,Equipment Failure,Motor failure,2024-01-18 23:51:00,2024-01-19 00:20:13,29.2,Unknown,Escalated to engineering
+684,168,41,Changeover,Model changeover,2024-01-19 03:38:00,2024-01-19 04:01:23,23.4,Operator error,Operator retrained
+685,168,45,Material,Material quality issue,2024-01-19 01:19:00,2024-01-19 01:42:33,23.6,Process variation,Operator retrained
+686,169,4,Equipment Failure,Sensor malfunction,2024-01-19 11:36:00,2024-01-19 12:28:18,52.3,Unknown,Escalated to engineering
+687,169,7,Changeover,Model changeover,2024-01-19 06:57:00,2024-01-19 07:20:00,23,Supplier issue,Temporary fix applied
+688,169,3,Material,Wrong part delivered,2024-01-19 10:24:00,2024-01-19 10:34:59,11,Operator error,Temporary fix applied
+689,169,4,Other,Environmental issue,2024-01-19 11:29:00,2024-01-19 11:43:17,14.3,Process variation,Escalated to engineering
+690,170,2,Quality Hold,Inspection hold,2024-01-19 16:32:00,2024-01-19 16:49:51,17.9,Worn component,Escalated to engineering
+691,170,6,Equipment Failure,Hydraulic leak,2024-01-19 15:24:00,2024-01-19 15:56:09,32.2,Design flaw,Operator retrained
+692,170,10,Changeover,Tool change,2024-01-19 19:55:00,2024-01-19 20:16:26,21.4,Supplier issue,Settings adjusted
+693,170,4,Material,Part shortage,2024-01-19 16:04:00,2024-01-19 16:16:44,12.7,Operator error,Part replaced
+694,170,9,Quality Hold,Rework backlog,2024-01-19 19:05:00,2024-01-19 19:23:15,18.3,Operator error,Settings adjusted
+695,170,5,Equipment Failure,Pneumatic failure,2024-01-19 14:59:00,2024-01-19 15:58:27,59.5,Process variation,Temporary fix applied
+696,171,11,Planned Maintenance,Scheduled PM,2024-01-20 01:33:00,2024-01-20 01:58:16,25.3,Supplier issue,Root cause pending
+697,171,1,Planned Maintenance,Calibration,2024-01-20 00:21:00,2024-01-20 00:45:57,25,Worn component,Part replaced
+698,171,1,Equipment Failure,Robot error,2024-01-20 02:04:00,2024-01-20 02:22:53,18.9,Process variation,Escalated to engineering
+699,171,7,Equipment Failure,Sensor malfunction,2024-01-20 04:44:00,2024-01-20 05:12:20,28.3,Unknown,Root cause pending
+700,171,2,Changeover,Model changeover,2024-01-19 22:25:00,2024-01-19 23:08:21,43.4,Unknown,Root cause pending
+701,171,7,Planned Maintenance,Lubrication,2024-01-20 04:33:00,2024-01-20 05:24:46,51.8,Operator error,Root cause pending
+702,172,18,Equipment Failure,PLC fault,2024-01-19 09:33:00,2024-01-19 10:04:10,31.2,Process variation,Settings adjusted
+703,172,15,Changeover,Model changeover,2024-01-19 08:04:00,2024-01-19 08:47:50,43.8,Worn component,Part replaced
+704,172,17,Material,Material quality issue,2024-01-19 07:51:00,2024-01-19 08:15:33,24.6,Supplier issue,Escalated to engineering
+705,172,19,Equipment Failure,PLC fault,2024-01-19 12:22:00,2024-01-19 12:38:54,16.9,Worn component,Operator retrained
+706,172,13,Operator,Operator unavailable,2024-01-19 07:54:00,2024-01-19 08:03:12,9.2,Unknown,Escalated to engineering
+707,172,13,Changeover,Tool change,2024-01-19 08:38:00,2024-01-19 09:06:11,28.2,Design flaw,Escalated to engineering
+708,173,21,Equipment Failure,Sensor malfunction,2024-01-19 15:06:00,2024-01-19 16:05:29,59.5,Supplier issue,Escalated to engineering
+709,173,20,Planned Maintenance,Lubrication,2024-01-19 18:38:00,2024-01-19 19:35:11,57.2,Process variation,Root cause pending
+710,174,15,Quality Hold,Rework backlog,2024-01-20 00:28:00,2024-01-20 00:44:23,16.4,Process variation,Escalated to engineering
+711,174,16,Operator,Training,2024-01-20 05:08:00,2024-01-20 05:13:44,5.7,Unknown,Escalated to engineering
+712,174,14,Changeover,Model changeover,2024-01-20 00:57:00,2024-01-20 01:33:12,36.2,Unknown,Root cause pending
+713,174,13,Equipment Failure,Sensor malfunction,2024-01-19 23:42:00,2024-01-20 00:10:55,28.9,Design flaw,Operator retrained
+714,174,16,Material,Part shortage,2024-01-19 22:15:00,2024-01-19 22:38:22,23.4,Process variation,Part replaced
+715,175,34,Equipment Failure,Hydraulic leak,2024-01-19 12:05:00,2024-01-19 12:57:07,52.1,Supplier issue,Escalated to engineering
+716,175,29,Equipment Failure,Hydraulic leak,2024-01-19 06:06:00,2024-01-19 06:24:58,19,Unknown,Temporary fix applied
+717,175,23,Changeover,Model changeover,2024-01-19 06:15:00,2024-01-19 06:33:26,18.4,Worn component,Root cause pending
+718,176,27,Changeover,Model changeover,2024-01-19 19:27:00,2024-01-19 20:11:54,44.9,Design flaw,Root cause pending
+719,176,28,Equipment Failure,Motor failure,2024-01-19 17:17:00,2024-01-19 17:53:24,36.4,Design flaw,Escalated to engineering
+720,176,30,Changeover,Model changeover,2024-01-19 18:29:00,2024-01-19 19:09:00,40,Process variation,Operator retrained
+721,176,27,Changeover,Tool change,2024-01-19 20:06:00,2024-01-19 20:29:07,23.1,Worn component,Root cause pending
+722,176,26,Planned Maintenance,Scheduled PM,2024-01-19 16:14:00,2024-01-19 16:41:28,27.5,Operator error,Root cause pending
+723,177,28,Equipment Failure,Sensor malfunction,2024-01-20 02:01:00,2024-01-20 02:43:12,42.2,Process variation,Operator retrained
+724,177,35,Changeover,Tool change,2024-01-19 22:31:00,2024-01-19 23:15:09,44.2,Supplier issue,Temporary fix applied
+725,177,26,Changeover,Model changeover,2024-01-20 03:42:00,2024-01-20 04:00:16,18.3,Process variation,Operator retrained
+726,177,32,Quality Hold,Rework backlog,2024-01-19 23:13:00,2024-01-19 23:23:20,10.3,Operator error,Part replaced
+727,177,29,Changeover,Model changeover,2024-01-20 01:40:00,2024-01-20 02:07:24,27.4,Process variation,Part replaced
+728,177,33,Equipment Failure,Motor failure,2024-01-20 02:48:00,2024-01-20 03:26:40,38.7,Operator error,Escalated to engineering
+729,178,37,Equipment Failure,Hydraulic leak,2024-01-19 12:25:00,2024-01-19 13:05:28,40.5,Process variation,Part replaced
+730,178,49,Changeover,Fixture swap,2024-01-19 09:25:00,2024-01-19 09:40:53,15.9,Design flaw,Operator retrained
+731,179,47,Equipment Failure,Pneumatic failure,2024-01-19 20:16:00,2024-01-19 20:36:29,20.5,Design flaw,Root cause pending
+732,179,43,Changeover,Fixture swap,2024-01-19 16:22:00,2024-01-19 16:42:38,20.6,Unknown,Part replaced
+733,179,38,Changeover,Tool change,2024-01-19 19:28:00,2024-01-19 19:51:58,24,Worn component,Escalated to engineering
+734,179,46,Quality Hold,Rework backlog,2024-01-19 14:04:00,2024-01-19 14:12:28,8.5,Unknown,Operator retrained
+735,180,45,Operator,Operator unavailable,2024-01-19 22:40:00,2024-01-19 22:49:46,9.8,Design flaw,Temporary fix applied
+736,180,41,Changeover,Tool change,2024-01-20 01:43:00,2024-01-20 02:23:49,40.8,Worn component,Temporary fix applied
+737,180,41,Equipment Failure,Sensor malfunction,2024-01-20 02:54:00,2024-01-20 03:04:03,10.1,Supplier issue,Temporary fix applied
+738,180,49,Other,Environmental issue,2024-01-20 01:33:00,2024-01-20 01:54:47,21.8,Worn component,Root cause pending
+739,181,10,Changeover,Model changeover,2024-01-22 10:13:00,2024-01-22 10:30:20,17.3,Operator error,Part replaced
+740,181,5,Quality Hold,Rework backlog,2024-01-22 10:01:00,2024-01-22 10:07:01,6,Unknown,Settings adjusted
+741,181,8,Quality Hold,Defect investigation,2024-01-22 12:35:00,2024-01-22 12:56:29,21.5,Design flaw,Root cause pending
+742,181,6,Operator,Training,2024-01-22 10:11:00,2024-01-22 10:30:47,19.8,Process variation,Escalated to engineering
+743,181,12,Quality Hold,Inspection hold,2024-01-22 07:38:00,2024-01-22 07:46:43,8.7,Operator error,Temporary fix applied
+744,181,3,Material,Part shortage,2024-01-22 12:47:00,2024-01-22 13:09:10,22.2,Worn component,Escalated to engineering
+745,182,5,Equipment Failure,Motor failure,2024-01-22 19:33:00,2024-01-22 19:58:25,25.4,Worn component,Root cause pending
+746,182,2,Equipment Failure,Pneumatic failure,2024-01-22 20:15:00,2024-01-22 20:43:12,28.2,Process variation,Settings adjusted
+747,183,2,Equipment Failure,Sensor malfunction,2024-01-22 23:27:00,2024-01-23 00:15:45,48.8,Worn component,Temporary fix applied
+748,183,8,Material,Wrong part delivered,2024-01-23 02:16:00,2024-01-23 02:41:55,25.9,Design flaw,Operator retrained
+749,183,3,Planned Maintenance,Lubrication,2024-01-23 03:43:00,2024-01-23 04:25:23,42.4,Operator error,Operator retrained
+750,183,1,Operator,Operator unavailable,2024-01-23 04:18:00,2024-01-23 04:38:08,20.1,Operator error,Part replaced
+751,184,14,Material,Material quality issue,2024-01-22 08:58:00,2024-01-22 09:11:20,13.3,Operator error,Settings adjusted
+752,184,20,Equipment Failure,Robot error,2024-01-22 11:32:00,2024-01-22 11:52:45,20.8,Design flaw,Root cause pending
+753,185,15,Quality Hold,Inspection hold,2024-01-22 16:54:00,2024-01-22 17:20:51,26.9,Design flaw,Root cause pending
+754,185,21,Operator,Safety incident,2024-01-22 18:55:00,2024-01-22 19:17:54,22.9,Worn component,Root cause pending
+755,186,17,Changeover,Fixture swap,2024-01-22 22:51:00,2024-01-22 23:23:27,32.5,Supplier issue,Escalated to engineering
+756,186,15,Equipment Failure,Robot error,2024-01-22 22:47:00,2024-01-22 23:26:02,39,Design flaw,Root cause pending
+757,186,17,Quality Hold,Rework backlog,2024-01-22 23:56:00,2024-01-23 00:21:58,26,Design flaw,Temporary fix applied
+758,186,15,Equipment Failure,Hydraulic leak,2024-01-23 00:51:00,2024-01-23 01:48:14,57.2,Process variation,Settings adjusted
+759,186,19,Changeover,Tool change,2024-01-23 02:23:00,2024-01-23 02:44:45,21.8,Design flaw,Operator retrained
+760,186,18,Changeover,Model changeover,2024-01-23 04:43:00,2024-01-23 05:20:03,37.1,Operator error,Operator retrained
+761,187,34,Planned Maintenance,Lubrication,2024-01-22 12:01:00,2024-01-22 12:26:27,25.5,Unknown,Settings adjusted
+762,187,29,Material,Part shortage,2024-01-22 09:17:00,2024-01-22 09:40:34,23.6,Unknown,Escalated to engineering
+763,188,26,Quality Hold,Defect investigation,2024-01-22 17:54:00,2024-01-22 18:07:43,13.7,Operator error,Escalated to engineering
+764,188,35,Equipment Failure,Pneumatic failure,2024-01-22 19:51:00,2024-01-22 20:26:02,35,Supplier issue,Operator retrained
+765,188,27,Changeover,Fixture swap,2024-01-22 15:16:00,2024-01-22 15:55:39,39.7,Supplier issue,Temporary fix applied
+766,188,29,Quality Hold,Inspection hold,2024-01-22 14:29:00,2024-01-22 14:47:17,18.3,Unknown,Part replaced
+767,188,25,Changeover,Fixture swap,2024-01-22 19:56:00,2024-01-22 20:27:50,31.8,Supplier issue,Settings adjusted
+768,188,31,Changeover,Fixture swap,2024-01-22 18:13:00,2024-01-22 18:53:49,40.8,Operator error,Escalated to engineering
+769,189,36,Material,Wrong part delivered,2024-01-22 23:44:00,2024-01-23 00:12:19,28.3,Supplier issue,Escalated to engineering
+770,189,27,Quality Hold,Defect investigation,2024-01-23 00:10:00,2024-01-23 00:26:39,16.7,Worn component,Part replaced
+771,189,34,Operator,Operator unavailable,2024-01-23 03:43:00,2024-01-23 03:49:10,6.2,Operator error,Settings adjusted
+772,189,33,Changeover,Fixture swap,2024-01-22 22:47:00,2024-01-22 23:24:05,37.1,Unknown,Settings adjusted
+773,189,27,Material,Material quality issue,2024-01-23 01:07:00,2024-01-23 01:16:37,9.6,Supplier issue,Settings adjusted
+774,189,23,Quality Hold,Rework backlog,2024-01-22 22:39:00,2024-01-22 22:51:41,12.7,Supplier issue,Operator retrained
+775,190,45,Planned Maintenance,Lubrication,2024-01-22 12:19:00,2024-01-22 13:03:14,44.2,Supplier issue,Escalated to engineering
+776,190,42,Material,Wrong part delivered,2024-01-22 07:32:00,2024-01-22 07:39:50,7.8,Process variation,Part replaced
+777,191,46,Equipment Failure,Pneumatic failure,2024-01-22 19:08:00,2024-01-22 19:43:53,35.9,Worn component,Escalated to engineering
+778,191,42,Other,Environmental issue,2024-01-22 20:46:00,2024-01-22 21:12:19,26.3,Operator error,Root cause pending
+779,191,41,Equipment Failure,Pneumatic failure,2024-01-22 21:11:00,2024-01-22 21:51:38,40.6,Process variation,Root cause pending
+780,192,46,Material,Wrong part delivered,2024-01-23 03:52:00,2024-01-23 04:18:40,26.7,Design flaw,Root cause pending
+781,192,37,Quality Hold,Defect investigation,2024-01-23 05:05:00,2024-01-23 05:21:07,16.1,Process variation,Operator retrained
+782,192,48,Operator,Training,2024-01-23 00:40:00,2024-01-23 00:46:16,6.3,Operator error,Settings adjusted
+783,192,39,Material,Material quality issue,2024-01-23 02:42:00,2024-01-23 03:01:13,19.2,Unknown,Root cause pending
+784,193,10,Material,Part shortage,2024-01-23 07:55:00,2024-01-23 08:23:52,28.9,Supplier issue,Temporary fix applied
+785,193,9,Operator,Safety incident,2024-01-23 12:10:00,2024-01-23 12:23:14,13.2,Supplier issue,Root cause pending
+786,193,9,Material,Part shortage,2024-01-23 08:21:00,2024-01-23 08:26:07,5.1,Design flaw,Settings adjusted
+787,194,9,Equipment Failure,Robot error,2024-01-23 18:55:00,2024-01-23 19:16:43,21.7,Process variation,Settings adjusted
+788,194,11,Quality Hold,Rework backlog,2024-01-23 18:36:00,2024-01-23 18:58:20,22.3,Unknown,Escalated to engineering
+789,195,2,Operator,Operator unavailable,2024-01-24 00:58:00,2024-01-24 01:05:30,7.5,Unknown,Part replaced
+790,195,2,Changeover,Model changeover,2024-01-24 03:23:00,2024-01-24 03:57:19,34.3,Worn component,Temporary fix applied
+791,196,21,Operator,Training,2024-01-23 09:34:00,2024-01-23 09:39:33,5.6,Worn component,Part replaced
+792,196,14,Changeover,Fixture swap,2024-01-23 09:52:00,2024-01-23 10:07:46,15.8,Unknown,Temporary fix applied
+793,196,14,Material,Part shortage,2024-01-23 11:26:00,2024-01-23 11:43:23,17.4,Operator error,Settings adjusted
+794,197,19,Material,Material quality issue,2024-01-23 19:57:00,2024-01-23 20:02:32,5.5,Unknown,Temporary fix applied
+795,197,16,Operator,Training,2024-01-23 19:01:00,2024-01-23 19:07:45,6.8,Design flaw,Escalated to engineering
+796,197,19,Equipment Failure,Sensor malfunction,2024-01-23 18:03:00,2024-01-23 18:31:44,28.7,Supplier issue,Operator retrained
+797,198,15,Quality Hold,Inspection hold,2024-01-23 23:19:00,2024-01-23 23:31:14,12.2,Design flaw,Part replaced
+798,198,21,Changeover,Model changeover,2024-01-24 03:46:00,2024-01-24 04:08:14,22.2,Process variation,Temporary fix applied
+799,198,18,Quality Hold,Inspection hold,2024-01-23 23:57:00,2024-01-24 00:24:10,27.2,Worn component,Part replaced
+800,198,18,Other,IT system down,2024-01-24 04:26:00,2024-01-24 04:48:49,22.8,Process variation,Root cause pending
+801,198,13,Equipment Failure,PLC fault,2024-01-24 05:13:00,2024-01-24 05:42:10,29.2,Operator error,Root cause pending
+802,198,20,Changeover,Tool change,2024-01-24 03:54:00,2024-01-24 04:19:05,25.1,Worn component,Temporary fix applied
+803,199,26,Material,Material quality issue,2024-01-23 08:14:00,2024-01-23 08:29:17,15.3,Operator error,Temporary fix applied
+804,199,30,Equipment Failure,Hydraulic leak,2024-01-23 07:33:00,2024-01-23 07:44:16,11.3,Worn component,Part replaced
+805,200,36,Material,Material quality issue,2024-01-23 20:50:00,2024-01-23 21:08:47,18.8,Operator error,Settings adjusted
+806,200,30,Equipment Failure,Motor failure,2024-01-23 18:25:00,2024-01-23 19:20:22,55.4,Process variation,Part replaced
+807,200,29,Equipment Failure,Motor failure,2024-01-23 18:11:00,2024-01-23 18:43:10,32.2,Process variation,Escalated to engineering
+808,201,23,Equipment Failure,Robot error,2024-01-24 02:22:00,2024-01-24 02:50:49,28.8,Worn component,Part replaced
+809,201,33,Other,Power fluctuation,2024-01-23 23:28:00,2024-01-23 23:52:29,24.5,Operator error,Escalated to engineering
+810,201,26,Changeover,Model changeover,2024-01-23 22:17:00,2024-01-23 22:57:28,40.5,Process variation,Escalated to engineering
+811,201,29,Other,Environmental issue,2024-01-24 00:53:00,2024-01-24 01:08:24,15.4,Operator error,Operator retrained
+812,202,48,Material,Material quality issue,2024-01-23 10:05:00,2024-01-23 10:13:05,8.1,Operator error,Temporary fix applied
+813,202,46,Quality Hold,Rework backlog,2024-01-23 12:46:00,2024-01-23 12:55:44,9.7,Supplier issue,Temporary fix applied
+814,203,49,Material,Part shortage,2024-01-23 14:01:00,2024-01-23 14:25:06,24.1,Worn component,Temporary fix applied
+815,203,46,Changeover,Tool change,2024-01-23 20:46:00,2024-01-23 21:02:09,16.2,Worn component,Settings adjusted
+816,203,44,Material,Part shortage,2024-01-23 15:35:00,2024-01-23 15:47:52,12.9,Unknown,Root cause pending
+817,203,49,Equipment Failure,Hydraulic leak,2024-01-23 17:45:00,2024-01-23 18:09:26,24.4,Operator error,Settings adjusted
+818,204,44,Changeover,Fixture swap,2024-01-24 00:39:00,2024-01-24 00:58:17,19.3,Worn component,Settings adjusted
+819,204,42,Operator,Safety incident,2024-01-24 02:09:00,2024-01-24 02:33:27,24.5,Supplier issue,Settings adjusted
+820,205,8,Equipment Failure,Robot error,2024-01-24 11:01:00,2024-01-24 11:51:37,50.6,Unknown,Temporary fix applied
+821,205,2,Equipment Failure,Pneumatic failure,2024-01-24 10:22:00,2024-01-24 11:21:31,59.5,Design flaw,Settings adjusted
+822,205,6,Planned Maintenance,Calibration,2024-01-24 06:34:00,2024-01-24 07:00:40,26.7,Process variation,Escalated to engineering
+823,205,4,Planned Maintenance,Scheduled PM,2024-01-24 08:47:00,2024-01-24 09:11:11,24.2,Process variation,Root cause pending
+824,205,9,Equipment Failure,Robot error,2024-01-24 13:20:00,2024-01-24 13:58:49,38.8,Supplier issue,Root cause pending
+825,206,3,Operator,Safety incident,2024-01-24 20:19:00,2024-01-24 20:40:40,21.7,Process variation,Temporary fix applied
+826,206,9,Equipment Failure,Pneumatic failure,2024-01-24 14:12:00,2024-01-24 14:57:32,45.5,Worn component,Root cause pending
+827,206,12,Changeover,Model changeover,2024-01-24 18:03:00,2024-01-24 18:21:07,18.1,Supplier issue,Settings adjusted
+828,206,1,Equipment Failure,PLC fault,2024-01-24 18:29:00,2024-01-24 19:07:02,38,Worn component,Escalated to engineering
+829,206,4,Other,Environmental issue,2024-01-24 15:32:00,2024-01-24 16:00:18,28.3,Design flaw,Root cause pending
+830,206,6,Changeover,Fixture swap,2024-01-24 14:27:00,2024-01-24 14:58:26,31.4,Process variation,Operator retrained
+831,207,12,Material,Material quality issue,2024-01-24 23:29:00,2024-01-24 23:54:14,25.2,Supplier issue,Operator retrained
+832,207,10,Equipment Failure,Pneumatic failure,2024-01-25 03:32:00,2024-01-25 04:25:37,53.6,Process variation,Root cause pending
+833,207,11,Quality Hold,Inspection hold,2024-01-24 22:36:00,2024-01-24 23:03:20,27.3,Process variation,Escalated to engineering
+834,207,8,Equipment Failure,Hydraulic leak,2024-01-25 02:13:00,2024-01-25 03:04:43,51.7,Process variation,Part replaced
+835,208,20,Planned Maintenance,Lubrication,2024-01-24 10:27:00,2024-01-24 11:04:36,37.6,Design flaw,Operator retrained
+836,208,18,Quality Hold,Rework backlog,2024-01-24 08:22:00,2024-01-24 08:36:07,14.1,Supplier issue,Temporary fix applied
+837,208,21,Operator,Operator unavailable,2024-01-24 12:25:00,2024-01-24 12:47:46,22.8,Operator error,Temporary fix applied
+838,208,22,Quality Hold,Defect investigation,2024-01-24 12:13:00,2024-01-24 12:41:42,28.7,Operator error,Settings adjusted
+839,208,19,Equipment Failure,PLC fault,2024-01-24 11:58:00,2024-01-24 12:09:58,12,Design flaw,Operator retrained
+840,209,20,Quality Hold,Rework backlog,2024-01-24 18:39:00,2024-01-24 18:58:41,19.7,Process variation,Settings adjusted
+841,209,15,Material,Material quality issue,2024-01-24 16:37:00,2024-01-24 16:47:34,10.6,Unknown,Operator retrained
+842,209,21,Equipment Failure,Robot error,2024-01-24 21:12:00,2024-01-24 22:07:42,55.7,Worn component,Part replaced
+843,209,13,Material,Material quality issue,2024-01-24 17:25:00,2024-01-24 17:38:54,13.9,Supplier issue,Temporary fix applied
+844,210,18,Material,Part shortage,2024-01-25 01:05:00,2024-01-25 01:25:53,20.9,Design flaw,Operator retrained
+845,210,19,Planned Maintenance,Lubrication,2024-01-25 00:59:00,2024-01-25 01:36:38,37.6,Operator error,Operator retrained
+846,211,29,Material,Material quality issue,2024-01-24 08:40:00,2024-01-24 09:04:50,24.8,Worn component,Operator retrained
+847,211,29,Equipment Failure,Robot error,2024-01-24 07:07:00,2024-01-24 07:52:34,45.6,Operator error,Settings adjusted
+848,211,29,Operator,Safety incident,2024-01-24 11:01:00,2024-01-24 11:21:53,20.9,Worn component,Temporary fix applied
+849,212,30,Changeover,Model changeover,2024-01-24 16:58:00,2024-01-24 17:31:29,33.5,Supplier issue,Part replaced
+850,212,34,Equipment Failure,Motor failure,2024-01-24 16:24:00,2024-01-24 17:22:44,58.7,Worn component,Settings adjusted
+851,212,23,Material,Wrong part delivered,2024-01-24 16:22:00,2024-01-24 16:47:49,25.8,Design flaw,Part replaced
+852,212,31,Operator,Operator unavailable,2024-01-24 20:20:00,2024-01-24 20:48:09,28.2,Operator error,Settings adjusted
+853,213,26,Operator,Operator unavailable,2024-01-25 05:07:00,2024-01-25 05:31:16,24.3,Unknown,Settings adjusted
+854,213,29,Changeover,Fixture swap,2024-01-25 05:25:00,2024-01-25 06:05:12,40.2,Worn component,Escalated to engineering
+855,213,29,Operator,Safety incident,2024-01-24 23:04:00,2024-01-24 23:19:11,15.2,Supplier issue,Operator retrained
+856,214,38,Equipment Failure,Motor failure,2024-01-24 06:08:00,2024-01-24 06:22:06,14.1,Worn component,Part replaced
+857,214,38,Changeover,Tool change,2024-01-24 08:22:00,2024-01-24 08:49:16,27.3,Design flaw,Escalated to engineering
+858,214,44,Changeover,Fixture swap,2024-01-24 10:05:00,2024-01-24 10:28:59,24,Unknown,Part replaced
+859,215,42,Equipment Failure,Pneumatic failure,2024-01-24 15:44:00,2024-01-24 16:34:55,50.9,Design flaw,Escalated to engineering
+860,215,43,Changeover,Fixture swap,2024-01-24 21:28:00,2024-01-24 22:12:46,44.8,Operator error,Part replaced
+861,215,42,Operator,Safety incident,2024-01-24 19:55:00,2024-01-24 20:01:57,7,Design flaw,Part replaced
+862,215,38,Quality Hold,Inspection hold,2024-01-24 21:12:00,2024-01-24 21:41:31,29.5,Operator error,Settings adjusted
+863,215,48,Changeover,Fixture swap,2024-01-24 17:34:00,2024-01-24 18:03:14,29.2,Process variation,Settings adjusted
+864,215,44,Changeover,Model changeover,2024-01-24 18:43:00,2024-01-24 19:15:08,32.1,Operator error,Settings adjusted
+865,216,47,Material,Part shortage,2024-01-25 04:01:00,2024-01-25 04:12:38,11.6,Unknown,Part replaced
+866,216,44,Changeover,Model changeover,2024-01-25 04:22:00,2024-01-25 04:44:18,22.3,Supplier issue,Part replaced
+867,216,49,Material,Material quality issue,2024-01-25 02:24:00,2024-01-25 02:34:24,10.4,Process variation,Temporary fix applied
+868,216,44,Planned Maintenance,Lubrication,2024-01-24 22:30:00,2024-01-24 23:27:02,57,Process variation,Operator retrained
+869,216,42,Changeover,Tool change,2024-01-25 02:00:00,2024-01-25 02:30:41,30.7,Unknown,Root cause pending
+870,216,37,Material,Part shortage,2024-01-24 23:04:00,2024-01-24 23:14:40,10.7,Operator error,Part replaced
+871,217,10,Quality Hold,Rework backlog,2024-01-25 07:14:00,2024-01-25 07:24:09,10.2,Supplier issue,Temporary fix applied
+872,217,12,Changeover,Model changeover,2024-01-25 10:19:00,2024-01-25 10:41:09,22.2,Design flaw,Part replaced
+873,217,2,Material,Wrong part delivered,2024-01-25 11:54:00,2024-01-25 12:11:03,17.1,Operator error,Escalated to engineering
+874,217,8,Operator,Safety incident,2024-01-25 06:18:00,2024-01-25 06:37:52,19.9,Worn component,Temporary fix applied
+875,217,10,Equipment Failure,Sensor malfunction,2024-01-25 06:18:00,2024-01-25 07:15:19,57.3,Unknown,Root cause pending
+876,217,9,Changeover,Fixture swap,2024-01-25 09:42:00,2024-01-25 10:14:21,32.4,Process variation,Settings adjusted
+877,218,5,Equipment Failure,Sensor malfunction,2024-01-25 16:59:00,2024-01-25 17:20:53,21.9,Unknown,Escalated to engineering
+878,218,3,Other,Power fluctuation,2024-01-25 17:05:00,2024-01-25 17:22:37,17.6,Process variation,Temporary fix applied
+879,219,6,Equipment Failure,PLC fault,2024-01-26 03:08:00,2024-01-26 03:52:26,44.4,Design flaw,Root cause pending
+880,219,10,Equipment Failure,Pneumatic failure,2024-01-26 00:27:00,2024-01-26 00:50:26,23.4,Unknown,Root cause pending
+881,219,2,Equipment Failure,PLC fault,2024-01-26 03:30:00,2024-01-26 04:16:42,46.7,Design flaw,Part replaced
+882,219,11,Equipment Failure,PLC fault,2024-01-26 00:05:00,2024-01-26 00:56:19,51.3,Worn component,Part replaced
+883,219,3,Equipment Failure,PLC fault,2024-01-26 03:42:00,2024-01-26 04:00:21,18.4,Unknown,Settings adjusted
+884,220,15,Planned Maintenance,Scheduled PM,2024-01-25 12:45:00,2024-01-25 13:39:45,54.8,Operator error,Operator retrained
+885,220,20,Quality Hold,Inspection hold,2024-01-25 08:16:00,2024-01-25 08:36:49,20.8,Process variation,Settings adjusted
+886,220,22,Operator,Training,2024-01-25 12:17:00,2024-01-25 12:26:33,9.6,Worn component,Escalated to engineering
+887,221,16,Equipment Failure,Motor failure,2024-01-25 20:52:00,2024-01-25 21:21:01,29,Unknown,Root cause pending
+888,221,22,Changeover,Fixture swap,2024-01-25 16:58:00,2024-01-25 17:40:19,42.3,Process variation,Escalated to engineering
+889,221,17,Other,Power fluctuation,2024-01-25 18:17:00,2024-01-25 18:29:30,12.5,Operator error,Part replaced
+890,221,16,Equipment Failure,Sensor malfunction,2024-01-25 14:47:00,2024-01-25 15:32:59,46,Design flaw,Root cause pending
+891,221,22,Equipment Failure,Sensor malfunction,2024-01-25 14:27:00,2024-01-25 15:23:23,56.4,Operator error,Settings adjusted
+892,222,18,Material,Part shortage,2024-01-26 05:03:00,2024-01-26 05:20:43,17.7,Process variation,Settings adjusted
+893,222,16,Equipment Failure,Motor failure,2024-01-26 01:03:00,2024-01-26 01:16:17,13.3,Operator error,Part replaced
+894,223,31,Changeover,Model changeover,2024-01-25 07:48:00,2024-01-25 08:21:19,33.3,Process variation,Escalated to engineering
+895,223,31,Material,Material quality issue,2024-01-25 10:22:00,2024-01-25 10:49:19,27.3,Design flaw,Settings adjusted
+896,223,27,Planned Maintenance,Calibration,2024-01-25 09:18:00,2024-01-25 09:43:46,25.8,Process variation,Root cause pending
+897,223,36,Planned Maintenance,Scheduled PM,2024-01-25 07:29:00,2024-01-25 08:02:32,33.5,Process variation,Operator retrained
+898,223,25,Equipment Failure,Motor failure,2024-01-25 10:05:00,2024-01-25 11:01:46,56.8,Operator error,Settings adjusted
+899,223,24,Changeover,Tool change,2024-01-25 06:08:00,2024-01-25 06:51:55,43.9,Operator error,Part replaced
+900,224,23,Equipment Failure,Hydraulic leak,2024-01-25 20:35:00,2024-01-25 21:08:45,33.8,Design flaw,Temporary fix applied
+901,224,36,Other,Power fluctuation,2024-01-25 16:10:00,2024-01-25 16:32:20,22.3,Operator error,Operator retrained
+902,224,32,Quality Hold,Inspection hold,2024-01-25 21:06:00,2024-01-25 21:28:51,22.9,Design flaw,Operator retrained
+903,225,33,Changeover,Tool change,2024-01-25 22:01:00,2024-01-25 22:29:06,28.1,Operator error,Escalated to engineering
+904,225,30,Material,Material quality issue,2024-01-26 00:32:00,2024-01-26 00:50:02,18,Operator error,Part replaced
+905,226,45,Equipment Failure,Motor failure,2024-01-25 08:05:00,2024-01-25 08:58:27,53.5,Unknown,Escalated to engineering
+906,226,46,Material,Wrong part delivered,2024-01-25 11:43:00,2024-01-25 12:02:43,19.7,Operator error,Temporary fix applied
+907,226,43,Material,Material quality issue,2024-01-25 12:58:00,2024-01-25 13:26:00,28,Worn component,Settings adjusted
+908,226,37,Changeover,Tool change,2024-01-25 11:11:00,2024-01-25 11:32:58,22,Supplier issue,Operator retrained
+909,227,41,Material,Part shortage,2024-01-25 18:38:00,2024-01-25 18:55:35,17.6,Unknown,Settings adjusted
+910,227,44,Equipment Failure,PLC fault,2024-01-25 21:04:00,2024-01-25 22:01:27,57.5,Design flaw,Operator retrained
+911,227,46,Material,Wrong part delivered,2024-01-25 16:13:00,2024-01-25 16:38:11,25.2,Process variation,Operator retrained
+912,227,41,Material,Material quality issue,2024-01-25 14:12:00,2024-01-25 14:40:39,28.7,Operator error,Root cause pending
+913,228,42,Operator,Training,2024-01-25 23:41:00,2024-01-26 00:03:27,22.5,Design flaw,Part replaced
+914,228,41,Changeover,Tool change,2024-01-26 03:57:00,2024-01-26 04:19:33,22.6,Operator error,Operator retrained
+915,228,49,Operator,Training,2024-01-25 23:21:00,2024-01-25 23:31:48,10.8,Design flaw,Root cause pending
+916,228,39,Equipment Failure,Hydraulic leak,2024-01-26 02:28:00,2024-01-26 03:22:40,54.7,Unknown,Operator retrained
+917,228,46,Equipment Failure,PLC fault,2024-01-26 01:09:00,2024-01-26 01:45:18,36.3,Design flaw,Part replaced
+918,228,44,Equipment Failure,PLC fault,2024-01-26 05:26:00,2024-01-26 05:50:23,24.4,Operator error,Escalated to engineering
+919,229,6,Planned Maintenance,Calibration,2024-01-26 10:20:00,2024-01-26 11:15:59,56,Process variation,Temporary fix applied
+920,229,10,Material,Material quality issue,2024-01-26 10:13:00,2024-01-26 10:40:51,27.9,Operator error,Temporary fix applied
+921,229,5,Changeover,Tool change,2024-01-26 08:49:00,2024-01-26 09:33:55,44.9,Worn component,Operator retrained
+922,230,3,Material,Wrong part delivered,2024-01-26 14:53:00,2024-01-26 14:58:54,5.9,Operator error,Settings adjusted
+923,230,1,Quality Hold,Defect investigation,2024-01-26 21:00:00,2024-01-26 21:29:37,29.6,Design flaw,Settings adjusted
+924,231,9,Changeover,Model changeover,2024-01-27 01:45:00,2024-01-27 02:11:58,27,Supplier issue,Settings adjusted
+925,231,11,Planned Maintenance,Calibration,2024-01-26 23:03:00,2024-01-26 23:32:16,29.3,Process variation,Root cause pending
+926,231,5,Other,Power fluctuation,2024-01-27 00:12:00,2024-01-27 00:36:35,24.6,Supplier issue,Part replaced
+927,231,6,Equipment Failure,PLC fault,2024-01-27 00:18:00,2024-01-27 00:49:08,31.1,Worn component,Part replaced
+928,231,3,Changeover,Model changeover,2024-01-27 00:06:00,2024-01-27 00:33:27,27.5,Worn component,Settings adjusted
+929,231,1,Equipment Failure,Motor failure,2024-01-27 01:04:00,2024-01-27 01:47:40,43.7,Worn component,Operator retrained
+930,232,17,Equipment Failure,Motor failure,2024-01-26 10:42:00,2024-01-26 10:58:46,16.8,Operator error,Root cause pending
+931,232,20,Quality Hold,Defect investigation,2024-01-26 07:26:00,2024-01-26 07:49:53,23.9,Operator error,Operator retrained
+932,232,19,Changeover,Model changeover,2024-01-26 09:28:00,2024-01-26 09:45:04,17.1,Design flaw,Escalated to engineering
+933,232,21,Operator,Safety incident,2024-01-26 06:03:00,2024-01-26 06:13:06,10.1,Unknown,Temporary fix applied
+934,232,22,Changeover,Tool change,2024-01-26 09:13:00,2024-01-26 09:32:23,19.4,Process variation,Temporary fix applied
+935,233,19,Changeover,Model changeover,2024-01-26 16:34:00,2024-01-26 16:56:32,22.5,Unknown,Temporary fix applied
+936,233,20,Quality Hold,Defect investigation,2024-01-26 18:19:00,2024-01-26 18:43:52,24.9,Worn component,Escalated to engineering
+937,234,14,Equipment Failure,Pneumatic failure,2024-01-26 23:08:00,2024-01-26 23:53:13,45.2,Supplier issue,Temporary fix applied
+938,234,16,Equipment Failure,Pneumatic failure,2024-01-26 23:52:00,2024-01-27 00:08:05,16.1,Design flaw,Temporary fix applied
+939,234,20,Operator,Operator unavailable,2024-01-26 22:24:00,2024-01-26 22:44:36,20.6,Design flaw,Operator retrained
+940,235,36,Equipment Failure,PLC fault,2024-01-26 11:10:00,2024-01-26 11:55:37,45.6,Supplier issue,Root cause pending
+941,235,25,Quality Hold,Defect investigation,2024-01-26 12:16:00,2024-01-26 12:40:28,24.5,Design flaw,Escalated to engineering
+942,236,24,Equipment Failure,Motor failure,2024-01-26 20:04:00,2024-01-26 20:50:56,46.9,Worn component,Temporary fix applied
+943,236,24,Quality Hold,Inspection hold,2024-01-26 19:45:00,2024-01-26 19:58:12,13.2,Process variation,Part replaced
+944,236,29,Planned Maintenance,Lubrication,2024-01-26 14:01:00,2024-01-26 14:47:16,46.3,Worn component,Temporary fix applied
+945,236,32,Other,IT system down,2024-01-26 20:18:00,2024-01-26 20:35:18,17.3,Process variation,Part replaced
+946,236,25,Operator,Safety incident,2024-01-26 19:05:00,2024-01-26 19:19:53,14.9,Design flaw,Root cause pending
+947,236,34,Other,IT system down,2024-01-26 19:45:00,2024-01-26 19:58:23,13.4,Operator error,Escalated to engineering
+948,237,26,Equipment Failure,Robot error,2024-01-27 04:39:00,2024-01-27 05:22:55,43.9,Unknown,Operator retrained
+949,237,24,Operator,Safety incident,2024-01-27 03:18:00,2024-01-27 03:25:40,7.7,Operator error,Settings adjusted
+950,237,30,Equipment Failure,Motor failure,2024-01-26 22:29:00,2024-01-26 23:06:01,37,Design flaw,Root cause pending
+951,237,36,Operator,Safety incident,2024-01-27 03:54:00,2024-01-27 04:01:54,7.9,Design flaw,Operator retrained
+952,237,33,Equipment Failure,PLC fault,2024-01-26 23:58:00,2024-01-27 00:12:54,14.9,Operator error,Escalated to engineering
+953,237,36,Changeover,Tool change,2024-01-26 22:35:00,2024-01-26 23:19:20,44.3,Supplier issue,Escalated to engineering
+954,238,44,Changeover,Model changeover,2024-01-26 08:54:00,2024-01-26 09:30:26,36.4,Process variation,Part replaced
+955,238,49,Operator,Safety incident,2024-01-26 08:51:00,2024-01-26 08:59:14,8.2,Unknown,Part replaced
+956,238,44,Equipment Failure,Robot error,2024-01-26 11:20:00,2024-01-26 11:58:52,38.9,Unknown,Part replaced
+957,239,44,Changeover,Fixture swap,2024-01-26 19:36:00,2024-01-26 19:57:14,21.2,Unknown,Settings adjusted
+958,239,45,Material,Wrong part delivered,2024-01-26 20:42:00,2024-01-26 21:04:44,22.7,Design flaw,Temporary fix applied
+959,239,47,Changeover,Model changeover,2024-01-26 21:11:00,2024-01-26 21:51:50,40.8,Worn component,Operator retrained
+960,239,46,Operator,Training,2024-01-26 18:01:00,2024-01-26 18:22:28,21.5,Process variation,Root cause pending
+961,240,47,Material,Part shortage,2024-01-27 00:50:00,2024-01-27 00:56:27,6.5,Process variation,Operator retrained
+962,240,38,Planned Maintenance,Scheduled PM,2024-01-27 01:10:00,2024-01-27 01:50:37,40.6,Supplier issue,Escalated to engineering
+963,240,48,Equipment Failure,Hydraulic leak,2024-01-26 22:43:00,2024-01-26 23:25:11,42.2,Operator error,Escalated to engineering
+964,241,1,Other,IT system down,2024-01-29 08:50:00,2024-01-29 09:12:08,22.1,Worn component,Escalated to engineering
+965,241,1,Operator,Safety incident,2024-01-29 11:38:00,2024-01-29 11:48:05,10.1,Design flaw,Root cause pending
+966,241,5,Other,Environmental issue,2024-01-29 11:04:00,2024-01-29 11:14:35,10.6,Unknown,Root cause pending
+967,241,2,Quality Hold,Inspection hold,2024-01-29 08:38:00,2024-01-29 08:50:49,12.8,Supplier issue,Escalated to engineering
+968,242,10,Equipment Failure,Motor failure,2024-01-29 17:53:00,2024-01-29 18:32:06,39.1,Design flaw,Part replaced
+969,242,5,Equipment Failure,Sensor malfunction,2024-01-29 16:27:00,2024-01-29 16:47:46,20.8,Supplier issue,Part replaced
+970,242,11,Equipment Failure,Pneumatic failure,2024-01-29 20:41:00,2024-01-29 21:34:19,53.3,Unknown,Root cause pending
+971,243,7,Changeover,Model changeover,2024-01-30 00:31:00,2024-01-30 01:04:28,33.5,Process variation,Root cause pending
+972,243,2,Other,IT system down,2024-01-30 02:06:00,2024-01-30 02:16:11,10.2,Process variation,Temporary fix applied
+973,243,10,Planned Maintenance,Calibration,2024-01-30 04:45:00,2024-01-30 05:09:49,24.8,Unknown,Escalated to engineering
+974,243,9,Material,Wrong part delivered,2024-01-30 03:02:00,2024-01-30 03:27:10,25.2,Supplier issue,Temporary fix applied
+975,243,3,Changeover,Fixture swap,2024-01-30 01:18:00,2024-01-30 01:59:09,41.2,Worn component,Settings adjusted
+976,243,3,Changeover,Model changeover,2024-01-29 23:36:00,2024-01-29 23:55:52,19.9,Unknown,Escalated to engineering
+977,244,21,Equipment Failure,Motor failure,2024-01-29 08:43:00,2024-01-29 09:39:19,56.3,Worn component,Operator retrained
+978,244,16,Equipment Failure,Pneumatic failure,2024-01-29 11:14:00,2024-01-29 11:51:13,37.2,Design flaw,Settings adjusted
+979,244,14,Material,Material quality issue,2024-01-29 09:49:00,2024-01-29 09:57:00,8,Operator error,Root cause pending
+980,244,13,Changeover,Model changeover,2024-01-29 06:24:00,2024-01-29 06:55:12,31.2,Design flaw,Root cause pending
+981,244,14,Operator,Operator unavailable,2024-01-29 11:09:00,2024-01-29 11:28:10,19.2,Worn component,Temporary fix applied
+982,244,17,Changeover,Model changeover,2024-01-29 12:25:00,2024-01-29 12:55:02,30,Design flaw,Escalated to engineering
+983,245,16,Changeover,Tool change,2024-01-29 16:36:00,2024-01-29 16:57:53,21.9,Design flaw,Operator retrained
+984,245,13,Equipment Failure,Motor failure,2024-01-29 19:05:00,2024-01-29 19:51:12,46.2,Design flaw,Temporary fix applied
+985,245,21,Changeover,Tool change,2024-01-29 16:25:00,2024-01-29 16:40:36,15.6,Worn component,Temporary fix applied
+986,245,18,Changeover,Fixture swap,2024-01-29 15:40:00,2024-01-29 16:17:29,37.5,Unknown,Escalated to engineering
+987,245,18,Planned Maintenance,Calibration,2024-01-29 20:56:00,2024-01-29 21:32:30,36.5,Unknown,Operator retrained
+988,245,18,Material,Wrong part delivered,2024-01-29 20:55:00,2024-01-29 21:24:59,30,Operator error,Escalated to engineering
+989,246,16,Equipment Failure,PLC fault,2024-01-30 02:52:00,2024-01-30 03:21:57,30,Process variation,Temporary fix applied
+990,246,16,Quality Hold,Defect investigation,2024-01-30 04:28:00,2024-01-30 04:44:41,16.7,Worn component,Settings adjusted
+991,246,20,Equipment Failure,Motor failure,2024-01-30 01:49:00,2024-01-30 02:05:08,16.1,Unknown,Operator retrained
+992,247,32,Quality Hold,Rework backlog,2024-01-29 11:15:00,2024-01-29 11:35:09,20.2,Worn component,Part replaced
+993,247,27,Quality Hold,Defect investigation,2024-01-29 11:47:00,2024-01-29 11:56:23,9.4,Unknown,Root cause pending
+994,248,33,Quality Hold,Rework backlog,2024-01-29 15:10:00,2024-01-29 15:32:38,22.6,Supplier issue,Escalated to engineering
+995,248,23,Changeover,Model changeover,2024-01-29 14:12:00,2024-01-29 14:32:58,21,Design flaw,Part replaced
+996,248,27,Material,Wrong part delivered,2024-01-29 17:59:00,2024-01-29 18:23:23,24.4,Process variation,Operator retrained
+997,248,32,Equipment Failure,Sensor malfunction,2024-01-29 16:44:00,2024-01-29 17:29:40,45.7,Supplier issue,Part replaced
+998,248,23,Material,Part shortage,2024-01-29 20:03:00,2024-01-29 20:20:06,17.1,Process variation,Root cause pending
+999,248,36,Equipment Failure,Hydraulic leak,2024-01-29 15:28:00,2024-01-29 16:05:38,37.6,Process variation,Settings adjusted
+1000,249,28,Material,Part shortage,2024-01-30 00:13:00,2024-01-30 00:36:41,23.7,Design flaw,Settings adjusted
+1001,249,28,Planned Maintenance,Lubrication,2024-01-30 00:41:00,2024-01-30 01:32:31,51.5,Worn component,Part replaced
+1002,250,49,Changeover,Fixture swap,2024-01-29 06:26:00,2024-01-29 07:09:39,43.7,Supplier issue,Operator retrained
+1003,250,44,Changeover,Tool change,2024-01-29 06:34:00,2024-01-29 06:58:01,24,Supplier issue,Part replaced
+1004,250,45,Equipment Failure,PLC fault,2024-01-29 09:07:00,2024-01-29 09:30:08,23.1,Unknown,Settings adjusted
+1005,250,42,Material,Material quality issue,2024-01-29 11:30:00,2024-01-29 11:48:39,18.7,Operator error,Operator retrained
+1006,251,41,Quality Hold,Rework backlog,2024-01-29 19:36:00,2024-01-29 19:58:09,22.2,Process variation,Operator retrained
+1007,251,44,Equipment Failure,Sensor malfunction,2024-01-29 19:06:00,2024-01-29 20:02:58,57,Unknown,Part replaced
+1008,251,49,Material,Wrong part delivered,2024-01-29 20:36:00,2024-01-29 20:59:02,23,Worn component,Root cause pending
+1009,251,37,Equipment Failure,Sensor malfunction,2024-01-29 20:47:00,2024-01-29 21:24:25,37.4,Unknown,Escalated to engineering
+1010,251,43,Equipment Failure,Robot error,2024-01-29 15:58:00,2024-01-29 16:55:55,57.9,Process variation,Part replaced
+1011,251,47,Changeover,Model changeover,2024-01-29 16:53:00,2024-01-29 17:16:09,23.2,Operator error,Escalated to engineering
+1012,252,47,Operator,Training,2024-01-29 23:23:00,2024-01-29 23:39:58,17,Process variation,Part replaced
+1013,252,46,Equipment Failure,Robot error,2024-01-30 01:03:00,2024-01-30 01:54:24,51.4,Operator error,Temporary fix applied
+1014,252,41,Other,Power fluctuation,2024-01-29 23:37:00,2024-01-30 00:00:20,23.3,Operator error,Operator retrained
+1015,252,42,Other,Environmental issue,2024-01-30 00:57:00,2024-01-30 01:02:51,5.9,Process variation,Settings adjusted
+1016,253,6,Changeover,Model changeover,2024-01-30 07:59:00,2024-01-30 08:38:48,39.8,Worn component,Root cause pending
+1017,253,6,Changeover,Model changeover,2024-01-30 06:44:00,2024-01-30 07:05:36,21.6,Design flaw,Operator retrained
+1018,253,7,Planned Maintenance,Calibration,2024-01-30 06:17:00,2024-01-30 06:50:27,33.5,Operator error,Settings adjusted
+1019,253,12,Quality Hold,Rework backlog,2024-01-30 06:47:00,2024-01-30 07:06:49,19.8,Worn component,Operator retrained
+1020,253,5,Operator,Training,2024-01-30 10:58:00,2024-01-30 11:16:38,18.6,Worn component,Operator retrained
+1021,253,3,Planned Maintenance,Scheduled PM,2024-01-30 11:56:00,2024-01-30 12:55:10,59.2,Supplier issue,Temporary fix applied
+1022,254,1,Quality Hold,Inspection hold,2024-01-30 21:13:00,2024-01-30 21:27:45,14.8,Supplier issue,Escalated to engineering
+1023,254,5,Equipment Failure,PLC fault,2024-01-30 20:29:00,2024-01-30 21:00:38,31.6,Supplier issue,Settings adjusted
+1024,254,1,Planned Maintenance,Calibration,2024-01-30 14:12:00,2024-01-30 14:58:39,46.7,Process variation,Temporary fix applied
+1025,254,8,Planned Maintenance,Calibration,2024-01-30 16:14:00,2024-01-30 16:55:13,41.2,Supplier issue,Part replaced
+1026,254,8,Planned Maintenance,Scheduled PM,2024-01-30 18:25:00,2024-01-30 19:02:57,38,Operator error,Root cause pending
+1027,254,10,Equipment Failure,Robot error,2024-01-30 15:38:00,2024-01-30 16:32:37,54.6,Design flaw,Escalated to engineering
+1028,255,2,Equipment Failure,Motor failure,2024-01-31 00:17:00,2024-01-31 00:32:30,15.5,Unknown,Operator retrained
+1029,255,1,Changeover,Tool change,2024-01-31 04:23:00,2024-01-31 04:42:45,19.8,Unknown,Temporary fix applied
+1030,255,3,Material,Material quality issue,2024-01-31 02:15:00,2024-01-31 02:30:03,15.1,Operator error,Escalated to engineering
+1031,255,11,Equipment Failure,Hydraulic leak,2024-01-31 04:15:00,2024-01-31 04:41:26,26.4,Supplier issue,Temporary fix applied
+1032,256,21,Changeover,Model changeover,2024-01-30 06:08:00,2024-01-30 06:45:09,37.2,Process variation,Part replaced
+1033,256,17,Other,IT system down,2024-01-30 11:05:00,2024-01-30 11:12:51,7.9,Design flaw,Part replaced
+1034,256,15,Material,Wrong part delivered,2024-01-30 06:59:00,2024-01-30 07:19:49,20.8,Worn component,Temporary fix applied
+1035,256,21,Changeover,Tool change,2024-01-30 11:49:00,2024-01-30 12:14:09,25.2,Process variation,Temporary fix applied
+1036,256,14,Quality Hold,Rework backlog,2024-01-30 07:09:00,2024-01-30 07:34:50,25.8,Worn component,Operator retrained
+1037,256,20,Material,Part shortage,2024-01-30 06:53:00,2024-01-30 07:10:38,17.6,Operator error,Part replaced
+1038,257,21,Material,Wrong part delivered,2024-01-30 16:45:00,2024-01-30 17:14:49,29.8,Worn component,Escalated to engineering
+1039,257,16,Material,Material quality issue,2024-01-30 20:46:00,2024-01-30 20:55:50,9.8,Supplier issue,Temporary fix applied
+1040,258,18,Changeover,Fixture swap,2024-01-31 04:35:00,2024-01-31 05:05:10,30.2,Worn component,Part replaced
+1041,258,16,Equipment Failure,Sensor malfunction,2024-01-30 22:23:00,2024-01-30 22:38:54,15.9,Supplier issue,Settings adjusted
+1042,259,30,Operator,Safety incident,2024-01-30 13:02:00,2024-01-30 13:28:13,26.2,Supplier issue,Escalated to engineering
+1043,259,23,Equipment Failure,Motor failure,2024-01-30 07:53:00,2024-01-30 08:21:38,28.6,Supplier issue,Root cause pending
+1044,259,33,Equipment Failure,Motor failure,2024-01-30 10:35:00,2024-01-30 11:05:31,30.5,Worn component,Settings adjusted
+1045,259,26,Planned Maintenance,Calibration,2024-01-30 12:50:00,2024-01-30 13:41:59,52,Design flaw,Part replaced
+1046,260,36,Equipment Failure,Sensor malfunction,2024-01-30 15:34:00,2024-01-30 16:26:41,52.7,Worn component,Part replaced
+1047,260,23,Material,Material quality issue,2024-01-30 17:48:00,2024-01-30 18:07:53,19.9,Unknown,Escalated to engineering
+1048,260,33,Equipment Failure,Motor failure,2024-01-30 16:19:00,2024-01-30 17:02:08,43.1,Operator error,Part replaced
+1049,260,29,Changeover,Tool change,2024-01-30 14:03:00,2024-01-30 14:26:48,23.8,Worn component,Settings adjusted
+1050,260,28,Changeover,Model changeover,2024-01-30 17:40:00,2024-01-30 17:58:27,18.5,Supplier issue,Part replaced
+1051,260,24,Equipment Failure,PLC fault,2024-01-30 18:42:00,2024-01-30 19:17:34,35.6,Process variation,Operator retrained
+1052,261,25,Changeover,Model changeover,2024-01-31 05:24:00,2024-01-31 06:03:05,39.1,Unknown,Operator retrained
+1053,261,29,Changeover,Model changeover,2024-01-31 04:03:00,2024-01-31 04:40:44,37.7,Worn component,Settings adjusted
+1054,261,24,Equipment Failure,Motor failure,2024-01-31 05:09:00,2024-01-31 05:46:26,37.4,Design flaw,Temporary fix applied
+1055,262,42,Equipment Failure,Motor failure,2024-01-30 07:34:00,2024-01-30 08:30:19,56.3,Supplier issue,Part replaced
+1056,262,37,Changeover,Tool change,2024-01-30 11:15:00,2024-01-30 11:56:49,41.8,Process variation,Temporary fix applied
+1057,262,46,Equipment Failure,Hydraulic leak,2024-01-30 12:21:00,2024-01-30 12:31:48,10.8,Design flaw,Settings adjusted
+1058,262,47,Equipment Failure,Pneumatic failure,2024-01-30 12:53:00,2024-01-30 13:07:52,14.9,Worn component,Root cause pending
+1059,262,47,Changeover,Fixture swap,2024-01-30 07:52:00,2024-01-30 08:34:05,42.1,Process variation,Settings adjusted
+1060,263,45,Quality Hold,Rework backlog,2024-01-30 21:02:00,2024-01-30 21:11:14,9.2,Design flaw,Temporary fix applied
+1061,263,42,Changeover,Tool change,2024-01-30 20:35:00,2024-01-30 20:55:54,20.9,Worn component,Operator retrained
+1062,263,42,Equipment Failure,Motor failure,2024-01-30 20:19:00,2024-01-30 20:50:20,31.3,Unknown,Part replaced
+1063,264,38,Material,Wrong part delivered,2024-01-30 22:53:00,2024-01-30 23:07:48,14.8,Design flaw,Escalated to engineering
+1064,264,45,Changeover,Tool change,2024-01-31 05:26:00,2024-01-31 06:04:55,38.9,Operator error,Root cause pending
+1065,264,43,Planned Maintenance,Calibration,2024-01-31 02:19:00,2024-01-31 02:42:15,23.3,Operator error,Escalated to engineering
+1066,264,43,Equipment Failure,Motor failure,2024-01-30 23:29:00,2024-01-30 23:55:27,26.5,Operator error,Part replaced
+1067,264,49,Equipment Failure,Motor failure,2024-01-30 22:22:00,2024-01-30 23:15:38,53.6,Supplier issue,Part replaced

@@ -1,1 +1,4 @@
 id,shift_name,start_time,end_time,planned_minutes,planned_breaks_minutes
+1,Day Shift,06:00,14:00,480,45
+2,Evening Shift,14:00,22:00,480,45
+3,Night Shift,22:00,06:00,480,45

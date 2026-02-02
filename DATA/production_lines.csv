@@ -1,1 +1,5 @@
 id,line_code,line_name,line_type,takt_time_seconds,planned_capacity_per_shift,created_at
+1,BS,Body Shop,body_shop,54,400,2026-01-30 20:23:47
+2,PT,Paint Shop,paint,58,380,2026-01-30 20:23:47
+3,TC,Trim & Chassis,trim,52,420,2026-01-30 20:23:47
+4,FA,Final Assembly,final_assembly,56,390,2026-01-30 20:23:47
